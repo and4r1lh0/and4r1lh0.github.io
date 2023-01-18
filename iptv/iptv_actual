@@ -9,10 +9,6 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 http://136.243.42.146:1400
 #EXTINF:-1,11 канал Полевской
 https://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
-#EXTINF:-1,12 HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1,12 HD
-http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 #EXTINF:-1,12 канал HD
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1,1HD Music Television
