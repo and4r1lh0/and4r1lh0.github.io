@@ -193,8 +193,6 @@ https://euronews.alteox.app/hls/it_stream.m3u8
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1,Euronews Russian
 https://hls.youtb.workers.dev/channel/UCFzJjgVicCtFxJ5B0P_ei8A
-#EXTINF:-1,Euronews Russian (576p)
-http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1,Euronews Spanish
 https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1,Europa Plus TV HD
