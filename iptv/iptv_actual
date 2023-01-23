@@ -27,10 +27,6 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="",31 канал (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?version=2
-#EXTINF:-1 group-title="",31 канал HD
-https://31kz-streams.daitsuna.net/31kz/31kz_1080/chunks.m3u8
 #EXTINF:-1 group-title="",31 канал Челябинск
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 group-title="",312
@@ -39,8 +35,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",360 TuneBox HD
 http://saveukraine.1ce.xyz/8130/index.m3u8?token=QeKIybfCWY
-#EXTINF:-1 group-title="",360°
-https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="",360° HD
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="",360° Новости HD
@@ -49,8 +43,6 @@ https://livetv.mylifeisgood.ml/channels/ch360news
 http://31.210.208.167:80/365day/index.m3u8
 #EXTINF:-1 group-title="",4 канал Екатеринбург
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="",41 Регион
-https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 group-title="",43 Канал HD
 http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="",49 канал HD
@@ -69,16 +61,12 @@ http://saveukraine.1ce.xyz/7877/index.m3u8?token=QeKIybfCWY
 http://saveukraine.1ce.xyz/7876/index.m3u8?token=QeKIybfCWY
 #EXTINF:-1 group-title="",6ТВ
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="",7 канал
-http://92.46.127.146:8080/7Channel/index.m3u8
 #EXTINF:-1 group-title="",7 канал Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 #EXTINF:-1 group-title="",8 Канал (Европа)
 https://v4.proofix.ru/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="",8 канал Владивосток HD
 http://livestream.8kanal.tv/hls/livestream_hd720.m3u8
-#EXTINF:-1 group-title="",86 канал
-https://sitv.ru/hls/s86512.m3u8
 #EXTINF:-1 group-title="",86 канал Сургут
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 group-title="Музыка",88 STEREO TV
@@ -333,7 +321,7 @@ https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 http://89.104.114.7:8080/english_club_tv/index.m3u8
 #EXTINF:-1 group-title="Музыка",Eu Music
 http://saveukraine.1ce.xyz/5517/index.m3u8?token=QeKIybfCWY
-#EXTINF:-1 group-title="",Eurodance 90 HD
+#EXTINF:-1 group-title="Музыка",Eurodance 90 HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="",Euronews Deutsch
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -685,8 +673,6 @@ https://tv.a21network.ru/stream/40650/index.m3u8
 http://saveukraine.1ce.xyz/6487/index.m3u8?token=QeKIybfCWY
 #EXTINF:-1 group-title="",NRWision HD
 https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 group-title="",NTS
-http://5.56.77.9:50000
 #EXTINF:-1 group-title="",NTV Europe
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 group-title="",O!
