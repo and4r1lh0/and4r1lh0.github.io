@@ -523,10 +523,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 group-title="",Meteonews HD
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="",Mezzo Live HD
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="Музыка",Mezzo Live HD
-http://63441366.ottolok.net/iptv/QQKHHE322T8QTS/208/index.m3u8
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="",Millennium TV HD
 http://mmg.ooo/live/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",MIXM
