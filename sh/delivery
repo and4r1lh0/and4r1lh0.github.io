@@ -1,2 +1,2 @@
-[{"server":"109.169.72.249","server_port":803,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"Sharjah, SH, United Arab Emirates"},
-{"server":"1.1.7.2","server_port":803,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"United Arab Emiratesss"}]
+[{"server":"163.172.110.153","server_port":800,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"hotspot1"},
+{"server":"51.159.30.61","server_port":804,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"hotspot2"}]
