@@ -341,7 +341,7 @@ http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="TV",Kentron HD
 http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",KHL Prime HD
-https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+http://bl.uma.media/live/171748/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="TV",Kino.Watch Документальные HD
 https://edge-01.kino.watch/docu/index.m3u8
 #EXTINF:-1 group-title="TV",Kino.Watch Свежаки HD
@@ -1135,7 +1135,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="TV",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="TV",КХЛ ТВ
-http://79.141.211.254:8000/KHL
+http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Ленинск ТВ Плюс
 http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
 #EXTINF:-1 group-title="Регионы",Липецк
