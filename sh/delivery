@@ -1,2 +1,2 @@
-[{"server":"163.172.110.153","server_port":800,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"hotspot1"},
+[{"server":"217.70.189.155","server_port":443,"password":"eJZJAeK3S9st","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"hotspot1"},
 {"server":"51.159.30.61","server_port":804,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"hotspot2"}]
