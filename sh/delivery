@@ -1,4 +1,4 @@
 [{"server":"212.102.53.198","server_port":443,"password":"shadowsocks","method":"aes-128-gcm","plugin":"","plugin_opts":null,"remarks":"BR"},
 {"server":"217.70.189.155","server_port":443,"password":"eJZJAeK3S9st","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"FR"},
-{"server":"167.86.116.89","server_port":443,"password":"srt1xud0e3tF","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"DE"},
+{"server":"167.86.116.89","server_port":443,"password":"srt1xudOe3tF","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"DE"},
 {"server":"134.195.196.178","server_port":804,"password":"G!yBwPWH3Vao","method":"chacha20-ietf-poly1305","plugin":"","plugin_opts":null,"remarks":"US"},]
