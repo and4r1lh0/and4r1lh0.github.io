@@ -497,16 +497,14 @@ https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",VH-1 HD
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 group-title="TV",Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="TV",Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 group-title="TV",Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="TV",Viasat Sport HD
-https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
 #EXTINF:-1 group-title="Музыка",Vibee TV HD
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="TV",viju Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="TV",viju History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="TV",viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="TV",viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 group-title="TV",viju+ Megahit HD
@@ -517,6 +515,8 @@ http://xoun6zd8.otttv.pw/iptv/GM676ZPU74CU7Q/15225/index.m3u8
 https://m3ut.net/p/982815674/1/45
 #EXTINF:-1 group-title="TV",viju+ Serial HD
 http://94.229.250.73:8008/play/a003
+#EXTINF:-1 group-title="TV",viju+ Sport HD
+https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
 #EXTINF:-1 group-title="Музыка",Viva Russia HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 group-title="Международные",WeatherSpy Europe HD
