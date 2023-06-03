@@ -477,7 +477,7 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 http://50.7.120.164:8081/travel_adventure/index.m3u8?wmsAuthSign=83fd4f3005e01c9e3e19ee086869329e-1685821289-412i831i0i64
 #EXTINF:-1 group-title="TV",Travel+Adventure HD
 https://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="",Travel+Adventure HD
+#EXTINF:-1 group-title="TV",Travel+Adventure HD
 https://mhd158.iptv2022.com/p/v2VEOWIZPFbESvUDCLjC3g,1685889683/streaming/travelhd/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 #EXTINF:-1 group-title="Международные",TRT World HD
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
