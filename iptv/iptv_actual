@@ -72,15 +72,19 @@ https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 group-title="TV",Amedia Premium HD
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
 #EXTINF:-1 group-title="TV",Amedia Premium HD
-https://edge01.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_1080p_5000kbps.m3u8
+https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
 #EXTINF:-1 group-title="Международные",American Horrors
 https://ch.iptvmate.net/5e93352e9b86e279675cb5f9.m3u8
 #EXTINF:-1 group-title="TV",Amga TV HD
-https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",Animal Planet
 http://91.146.94.234:10001/play/a042
 #EXTINF:-1 group-title="TV",Animal Planet HD
-https://edge01.beetv.kz/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiYzk2ZWI1ZDAtYjdhMS00NmE2LWE4ZWQtZGM5ZTBmMmJiYjE2IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU1OjIwWiIsInN0cmVhbV9uYW1lIjoiMzE1OCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFGIzunRaDr6iIsOKds_T2CIAtMHAAhRe6ApEGK0QnQ5IZVfefhYTsDk7dw%3D%3D/ip_v5/3158.m3u8
+#EXTINF:-1 group-title="TV",Animal Planet HD
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="",Animal Planet HD (Test)
+https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
 #EXTINF:-1 group-title="Международные",Arirang TV (Korea)
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TV",Backus TV Dark HD
@@ -99,8 +103,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Музыка",Bibel TV Musik HD
 http://bibeltv02.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="TV",Big Planet HD
-http://176.197.188.55:81/udp/239.255.43.41:1234
+#EXTINF:-1 group-title="TV",Big Planet
+https://mhd116.iptv2022.com/p/gNw-i9OMMDyxNL4QGDWxYw,1686016908/streaming/big_planet/324/1/index.m3u8
 #EXTINF:-1 group-title="Международные",Bloomberg TV EMEA Live Event HD
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 group-title="4K Каналы",Bloomberg TV Europe 4K
@@ -138,11 +142,15 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="TV",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="TV",Cinema
-https://edge01.beetv.kz/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODU5OTE0NTksImlhdCI6MTY4NTkwNTA1OSwiY2lkIjo2LCJ1aWQiOjU5NDA3OTM0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.8a7hPDunIj52N5Xr5MvQGklPwcrpe1sSPrsCmlrnoks&offset=10
+#EXTINF:-1 group-title="TV",Cinema
+rtmp://178.159.112.198//cinema
 #EXTINF:-1 group-title="TV",Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="TV",Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="TV",Cinema HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiYmFkZDRmZTEtZDA5NC00ODAwLTg4MzQtZGMxMGJmMjUyYWE0IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU1OjQ3WiIsInN0cmVhbV9uYW1lIjoiMzg3MCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFG9HktATj8SlpvC9hnzcY6JiVgd0AhRJlo2EG766Z9ShMORkphwFwHT7vg%3D%3D/ip_v5/3870.m3u8
 #EXTINF:-1 group-title="4K Каналы",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Clubbing TV HD
@@ -162,7 +170,9 @@ http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 #EXTINF:-1 group-title="Международные",Dirt Road Outdoors TV HD
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TV",Discovery Channel HD
-https://edge01.beetv.kz/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+http://hez1-flu.iptvstream.site/189/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
+#EXTINF:-1 group-title="",Discovery Channel HD (Test)
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 #EXTINF:-1 group-title="TV",Discovery Science
 https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:-1 group-title="TV",Discovery Science HD
@@ -170,7 +180,7 @@ http://91.146.94.234:10001/play/a03q
 #EXTINF:-1 group-title="TV",Discovery Turbo Xtra HD
 http://91.146.94.234:10001/play/a05d
 #EXTINF:-1 group-title="TV",DTX HD
-https://ip1.pokaz.me:1443/228/index.m3u8?wmsAuthSign=1685747072p871i691i591i431S7fd4be3a42f9d577c54a6c5274cfbae2c12b4b604239fc8f30a464208&rand=0.08335105953548072f3
+https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 #EXTINF:-1 group-title="Международные",Dubai One HD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="Международные",Dubai Racing 2 HD
@@ -200,9 +210,9 @@ https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 group-title="Музыка",Europa Plus TV HD
 http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV",Eurosport 1 International HD
-https://edge01.beetv.kz/btv/SWM/Eurosport/Eurosport_1080p_5000kbps.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMjIwMDUyNzMtNmUxMS00NDZlLWI5ZmYtZmUwMmFkODg0OTllIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU3OjEwWiIsInN0cmVhbV9uYW1lIjoiNTEwMiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFCwuL3Byudbo3I4htqe0wTp0tEggAhQB7FjTlBRWI20NERvlv7vDftOHHQ%3D%3D/ip_v5/5102.m3u8
 #EXTINF:-1 group-title="TV",Eurosport 2 International HD
-https://edge01.beetv.kz/btv/SWM/Eurosport2/Eurosport2_1080p_5000kbps.m3u8
+http://hez1-flu.iptvstream.site/152/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="TV",Extreme Sports
 http://46.19.100.174:4455/play/a00s/index.m3u8
 #EXTINF:-1 group-title="TV",FAN HD
@@ -224,9 +234,9 @@ http://tv.tuva.ru/film_box/index.m3u8
 #EXTINF:-1 group-title="TV",Filmzone HD
 http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",Fox HD
-https://edge01.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+https://livetv.mylifeisgood.ml/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
 #EXTINF:-1 group-title="TV",Fox Life HD
-https://edge01.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
+https://livetv.mylifeisgood.ml/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 group-title="Музыка",Fresh TV (ARM) HD
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 group-title="Международные",FTV Midnite Secrets HD
@@ -241,18 +251,10 @@ https://live.prd.dlive.tv/hls/live/happyradio.m3u8
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
 #EXTINF:-1 group-title="TV",HHQ TV HD
 https://maxssw.com:1935/hhq/live/chunklist.m3u8
-#EXTINF:-1 group-title="TV",History 1 HD
-https://edge01.beetv.kz/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="TV",History 2 HD
-https://edge01.beetv.kz/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="TV",History HD
-http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="TV",Hollywood
-http://37.17.14.149:8903/play/a009
-#EXTINF:-1 group-title="TV",Hollywood
-https://edge01.beetv.kz/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="TV",Hollywood HD
+http://hez1-flu.iptvstream.site/188/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="Международные",Horizon Sports HD
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF:-1 group-title="TV",ID Pan Regional HD
@@ -335,18 +337,18 @@ http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 group-title="TV",MyZen TV HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="TV",Nano TV
+https://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="TV",Nano TV HD
 http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV",Nano TV HD
-https://salam-2-47.rutube.ru/dive/river-7-702.rutube.ru/MG95ASbiOhYO0JP8YDQy7g/stream/genetta-301.m9.rutube.ru/6XZbmMI5tZlyzUkYVV0nEQ/1685754526/c8e7b586ad7b53392745722f3e5104d9/1080p_stream.m3u8
 #EXTINF:-1 group-title="TV",NASA TV HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="TV",Nat Geo Wild HD
-https://edge01.beetv.kz/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
+http://hez1-flu.iptvstream.site/191/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="TV",NateRou HD
 http://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 group-title="TV",National Geographic HD
-https://edge01.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="TV",National Geographic
+http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Международные",NDR Fernsehen International HD
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 group-title="Музыка",NM TV HD
@@ -370,7 +372,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko TV Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="TV",Paramount Comedy
-https://edge01.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 #EXTINF:-1 group-title="Музыка",Persiana Music HD
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="Музыка",Power TV HD
@@ -456,7 +458,7 @@ http://176.74.80.162:8099/Tiji/index.m3u8
 #EXTINF:-1 group-title="Международные",TLC Balkans HD
 http://91.146.94.234:10001/play/a04e
 #EXTINF:-1 group-title="TV",TLC HD
-https://edge01.beetv.kz/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNjU4NzlhNzEtZTQwNC00M2I4LWE4ZmItMDNkN2YyMTg3MGFhIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU2OjIxWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFEufy0md-Zhu413Iav1GnKTMn0SgAhQzuZQeJiRn8mIM1jUDiACsvpxZ6A%3D%3D/ip_v5/5117.m3u8
 #EXTINF:-1 group-title="Регионы",TMTV (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 #EXTINF:-1 group-title="TV",Top Secret
@@ -468,7 +470,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="TV",Trash HD
 https://livetv.mylifeisgood.ml/channels/trash
 #EXTINF:-1 group-title="TV",Trash TV
-https://edge01.beetv.kz/btv/SWM/trash_hd/trash_hd_720p_3500kbps.m3u8
+https://mhd116.iptv2022.com/p/gvA2nQC9emd5HwBKmvl57Q,1686016905/streaming/trash/324/1/index.m3u8
 #EXTINF:-1 group-title="TV",Travel EMEA HD
 http://91.146.94.234:10001/play/a04c
 #EXTINF:-1 group-title="TV",Travel Guide TV
@@ -482,7 +484,7 @@ https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="TV",TV BRICS Russian HD
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="TV",TV XXI
-https://edge01.beetv.kz/btv/SWM/tv21/tv21_576p_2000kbps.m3u8
+http://95.181.17.6/streaming/tv21/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjMgNjo1ODo0NiBBTSZoYXNoX3ZhbHVlPVBkNktGaVRnVVoxaVNGNWk2TjdVNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Регионы",TV Губерния (Воронеж) HD
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",TV1000 Action HD
@@ -527,6 +529,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 group-title="TV",viju+ Nature HD
 http://xoun6zd8.otttv.pw/iptv/GM676ZPU74CU7Q/15225/index.m3u8
+#EXTINF:-1 group-title="TV",viju+ Planet
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 group-title="TV",viju+ Premiere HD
 https://m3ut.net/p/982815674/1/45
 #EXTINF:-1 group-title="TV",viju+ Serial HD
@@ -546,7 +550,7 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Zerouno TV HD
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 group-title="TV",ZooПарк
-https://edge01.beetv.kz/btv/SWM/Zoopark_SWM/Zoopark_SWM_576p_2000kbps.m3u8
+http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODU5OTE0NTksImlhdCI6MTY4NTkwNTA1OSwiY2lkIjo2LCJ1aWQiOjU5NDA3OTM0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.8a7hPDunIj52N5Xr5MvQGklPwcrpe1sSPrsCmlrnoks&offset=10
 #EXTINF:-1 group-title="Музыка",Óčko Expres
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Абаза ТВ HD
@@ -588,11 +592,11 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u
 #EXTINF:-1 group-title="Регионы",Башкортостан 24
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 #EXTINF:-1 group-title="Международные",Беларусь 1
-http://37.17.12.124:8901/play/a003
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1477441782_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Международные",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Международные",Беларусь 3
-http://37.17.12.124:8901/play/a005
+http://hez1-flu.iptvstream.site/354/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="Международные",Беларусь 4 Витебск HD
 https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 group-title="Регионы",Белгород 24
@@ -602,13 +606,13 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="Международные",Белсат HD
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="TV",Бокс ТВ
-http://31.148.48.15:80/Boks_TV/index.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZjQ1MWNmOTMtYjIzMi00ZjBiLWFhM2UtMTVlZDFhMmE4NjU0IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU3OjE1WiIsInN0cmVhbV9uYW1lIjoiMTQ0NiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFHwTsy_DXMoUeripFyKdq2fZuFGuAhQPaMBSnO5UYfHr_cD1Ce0JckifCg%3D%3D/ip_v5/1446.m3u8
 #EXTINF:-1 group-title="TV",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы",БСТ-24 (Братск)
 http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:-1 group-title="TV",В мире животных HD
-http://5.128.151.148:81/udp/239.1.21.12:1234
+http://94.158.54.107/82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",В мире животных HD
 https://str1.tvcom.uz/82/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TV",Вариант
@@ -680,21 +684,19 @@ http://37.235.184.235:81/udp/225.50.71.11:1234
 #EXTINF:-1 group-title="TV",Дикая рыбалка HD
 http://178.186.154.112:1234/udp/225.54.225.220:5000
 #EXTINF:-1 group-title="TV",Дикая рыбалка HD
-https://edge01.beetv.kz/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka_hd_1080p_5000kbps.m3u8
+https://mhd116.iptv2022.com/p/eVRUvR3VMYq-yxilnxXMgw,1686016906/streaming/ribalkahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Регионы",Димград 24 HD
 http://live-1.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 group-title="TV",Доверие
-http://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="TV",Дождь
 https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
 #EXTINF:-1 group-title="TV",Дом кино
 http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 #EXTINF:-1 group-title="TV",Дом кино
-https://edge01.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMzY2MTVmNDItZjVlYi00YmFkLWEzYjUtNzhmYmVlMDhlM2JkIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU1OjM2WiIsInN0cmVhbV9uYW1lIjoiNTEwNSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFCOlMtgSYoE-AgscaKwjQJGXfmFqAhQRDA6NKHSAcwDcvagbIA03pq5srw%3D%3D/ip_v5/5105.m3u8
 #EXTINF:-1 group-title="TV",Дом кино
 http://46.151.151.245:10007/play/a00b
 #EXTINF:-1 group-title="TV",Дом Кино Премиум HD
-https://edge01.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+http://hez1-flu.iptvstream.site/59/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="TV",Дом Кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="TV",Домашний
@@ -707,12 +709,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 group-title="Регионы",Дон 24 HD
 http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="TV",Дорама
-https://edge01.beetv.kz/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="TV",Дорама HD
+http://95.181.17.26/abr4/dorama/71/copy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjMgNjo1ODo0NiBBTSZoYXNoX3ZhbHVlPVBkNktGaVRnVVoxaVNGNWk2TjdVNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Регионы",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_ORB_EVRAZIY/variant.m3u8
 #EXTINF:-1 group-title="TV",Еврокино
-https://edge01.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNzdlY2JjOWUtZGVlZC00YTk4LTljZWYtOWIyMGY2YmU2M2NjIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTA1VDE4OjU1OjI1WiIsInN0cmVhbV9uYW1lIjoiOTAzIiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MCwCFEqWM6gHBarLxCtqjJrojhCghaSuAhRPcwU_SHubPXkxcxwvKXQYlEoF0w%3D%3D/ip_v5/903.m3u8
 #EXTINF:-1 group-title="TV",Евроновости HD
 https://euronews-ru.alteox.stream/id/ewnsabrru_rus_720p33.m3u8
 #EXTINF:-1 group-title="Регионы",Енисей (Красноярск) HD
@@ -727,8 +729,8 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 https://str1.tvcom.uz/162/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda
-#EXTINF:-1 group-title="TV",Живая природа HD
-https://edge01.beetv.kz/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="TV",Живая природа
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="TV",Живи Активно HD
 https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="TV",Загородный Int HD
@@ -740,19 +742,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="TV",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="TV",Здоровое ТВ
-https://edge01.beetv.kz/btv/SWM/zdorovoe_tv/zdorovoe_tv_576p_2000kbps.m3u8
+http://hez1-flu.iptvstream.site/183/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="Регионы",Ивановское общественное телевидение
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 group-title="TV",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="TV",Иллюзион+ HD
-https://edge01.beetv.kz/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM_1080p_5000kbps.m3u8
+http://95.181.17.6/abr2/illusionplus/71/copy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjMgNjo1ODo0NiBBTSZoYXNoX3ZhbHVlPVBkNktGaVRnVVoxaVNGNWk2TjdVNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Регионы",Импульс (Салехард)
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="TV",Импульс HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="TV",Индийское кино
-localhost
+http://95.181.17.6/abr1/india/71/copy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjMgNjo1ODo0NiBBTSZoYXNoX3ZhbHVlPVBkNktGaVRnVVoxaVNGNWk2TjdVNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Регионы",Инфо 24 HD
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Информационная служба Югры (Сургут)
@@ -786,11 +788,11 @@ http://193.33.240.8:8080/test1/index.m3u8
 #EXTINF:-1 group-title="TV",Кинеко HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 group-title="TV",Кинеко HD
-https://edge01.beetv.kz/btv/SWM/kineko_hd/kineko_hd_1080p_5000kbps.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="TV",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="TV",Кино ТВ HD
-http://5.128.151.148:81/udp/239.1.17.13:1234
+#EXTINF:-1 group-title="TV",Кино ТВ
+http://hez1-flu.iptvstream.site/68/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="TV",Кинозал! LAVA HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 #EXTINF:-1 group-title="TV",Кинозал! Хит HD
@@ -842,7 +844,7 @@ http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Липецкое Время HD
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 group-title="TV",Любимое кино
-https://edge01.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+http://hez1-flu.iptvstream.site/78/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 group-title="Регионы",Майдан (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Майкопское Телевидение
@@ -892,23 +894,23 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общероссийские",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Мир Белогорья HD
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 group-title="TV",Мир сериала
-https://edge01.beetv.kz/btv/SWM/mir_seriala/mir_seriala_576p_2000kbps.m3u8
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="TV",Мир сериала HD
+http://93.125.34.51:30002/Mir_seriala/index.m3u8
 #EXTINF:-1 group-title="Регионы",Мой Дагестан HD
 http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
 #EXTINF:-1 group-title="Регионы",Мордовия 24 HD
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="TV",Москва 24
-localhost
 #EXTINF:-1 group-title="Регионы",Москва 24
-https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist_3.m3u8?md5=wGztG57N37sTlFbr0XyXtw&e=1685737080&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 group-title="TV",Москва. Доверие
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="TV",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="TV",Мосфильм. Золотая коллекция
-https://edge01.beetv.kz/btv/SWM/mosfilm/mosfilm_576p_2000kbps.m3u8
+https://er-cdn.ertelecom.ru/os/video/hls/57bd12823363977f91006e4d3d2a75ba91693d0ebbfbd520af7ff59aafa5641d62fa39052fc337e8a4657da6be0813fd81fa356c813fe53bf06ed231e88ffb1a34521094c485107720e43be322d459d7823fd40f411007777cc021190e504d80e1a75b485a5bbe8401e5ae6cbca586fb645621df4f1027eab349a39e373f0a2348b9b84b68530bb9578c5d3adf167fefcd6971621cf7290252597c70f42f78fe97a2c2c795e1f06072d5cc0c9c883a4db21391efcd2a31483a9af26de84940aad41594f2da59bb02834ad9a2fb8aba21a1268272a271addaf20ce0c3ef0eff357e3e67dac2a234d25f873a73436fbfa4221c0b778e351b77314a1c93bd92a398449d6c3eba5f1cdd0ca759be2efc04e1c86c1d343901b73b166c8e561f4f0212494958fcb507291d8fa42d877685dc6e3d4ef48683a57d306ed40cf343b5faedbebd163562d08d501e7f8ef641b0dc3c/playlist.m3u8
 #EXTINF:-1 group-title="TV",Моя планета
-https://edge01.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD_480p_2000kbps.m3u8
+http://93.125.34.51:30002/MoyaPlaneta/index.m3u8
 #EXTINF:-1 group-title="TV",Моя Планета HD
 http://193.33.240.8:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Регионы",МТВ (Волгоград) HD
@@ -1022,7 +1024,7 @@ http://pilotfm.ru/cam/hls/pilothd.m3u8
 #EXTINF:-1 group-title="Регионы",НСК 49 HD
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="TV",НСТ
-https://edge01.beetv.kz/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
+http://93.125.34.51:30002/NSTV/index.m3u8
 #EXTINF:-1 group-title="TV",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="TV",НТВ (+1)
@@ -1034,11 +1036,11 @@ http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/varia
 #EXTINF:-1 group-title="TV",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="TV",НТВ Право
-https://edge01.beetv.kz/btv/SWM/ntv_pravo/ntv_pravo_576p_2000kbps.m3u8
+http://88.216.83.245/ntvpravo/index.m3u8
 #EXTINF:-1 group-title="TV",НТВ Сериал
-https://edge01.beetv.kz/btv/SWM/ntv_serial/ntv_serial_576p_2000kbps.m3u8
+http://88.216.83.245/ntvserial/index.m3u8
 #EXTINF:-1 group-title="TV",НТВ Стиль
-https://edge01.beetv.kz/btv/SWM/ntv_style/ntv_style_576p_2000kbps.m3u8
+http://88.216.83.245/ntvstil/index.m3u8
 #EXTINF:-1 group-title="TV",НТВ Хит
 http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/chunks.m3u8
 #EXTINF:-1 group-title="TV",НТВ-Мир
@@ -1134,9 +1136,7 @@ http://46.151.151.245:10007/play/a004
 #EXTINF:-1 group-title="Музыка",Прибой ТВ HD
 http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/index.m3u8
 #EXTINF:-1 group-title="TV",Приключения HD
-http://37.193.229.234:81/udp/239.1.17.11:1234
-#EXTINF:-1 group-title="TV",Приключения HD
-https://edge01.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD_1080p_5000kbps.m3u8
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="TV",Прима HD
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Продвижение (Колпашево)
@@ -1152,7 +1152,7 @@ http://178.166.221.107:1234/udp/225.54.204.36:5000
 #EXTINF:-1 group-title="TV",Пятница! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="TV",Пятница! HD
-https://live-s-106.uma.media/LIVE/LIVE:317843/HLS/live-s/1685748115/ajeoC02bEPuPc6hUP09nEw/live/317843_3/chunklist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские",Пятый канал (+2)
@@ -1303,8 +1303,8 @@ https://live.stv-tv.ru/playlist2.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV",Страх HD
 https://hls.goodgame.ru/hls/202127.m3u8
-#EXTINF:-1 group-title="TV",Страх ТВ
-https://playlist.wasd.tv/live/1697889/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV",Страх ТВ HD
+https://hls.goodgame.ru/hls/202127.m3u8
 #EXTINF:-1 group-title="TV",СТРК
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="TV",СТС
@@ -1322,7 +1322,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="TV",СТС Love (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="TV",Суббота!
-https://mix.streamsport.net:8080/hls/super/chunks.m3u8?nimblesessionid=15809018&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjMgNzowNDoyMSBQTSZoYXNoX3ZhbHVlPTlBRVhIN1ZGVWVhR3VKUmJQV1N2T1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MDAwMDAwMDA=
+https://er-cdn.ertelecom.ru/os/video/hls/473a58326340f644b928b45565ba3b68a044b8695d130a487f4522a0108477ead68665b5edc94657923bfd7592992df7c3f2c7f9585f8dcdacc5d395e0b5fd3fd64de7fb64f7a2d0506a803eb203bdcbfe87f91c4856d095b01b025e4dd40d72390613390ae34bd667eebdbe601df1b7d2346ab2abd37681e98c2bf3552c633d1536f88d0438c60be7e9cc36b6673cbdf8308a4ae05bc91321cf1ff29710fa3ec8f20cebf4f661cf020fabff81309637a2fcddee23b3dad1eebbc736457d67124ed7b262b88a3f7c11d45e6863ae502f62f01f05d672764855a3e9101cc7adffb091a884eadfcb32416921cef61fcb88498671897606f6db06004ab820f2b8089b97bb7cce2cc89eafde577568b537397609149c2d0a80d1f093f9a4c30af3be76eed8529cfc0c58becbb134422065ed3f5cb920a3967c5d986387a178c404b3614ad1ffb2e4a3ecb9c1b80ce17b4c1f/playlist.m3u8
 #EXTINF:-1 group-title="TV",Суббота! (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="TV",Суббота! (+4)
@@ -1420,7 +1420,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="TV",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="TV",ТНТ HD
-http://37.193.22.14:81/udp/239.1.21.55:1234
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music HD
 http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="TV",ТНТ Music HD
@@ -1492,7 +1492,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="TV",Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон
-http://5.128.151.148:81/udp/239.1.8.12:1234
+http://93.125.34.51:30002/ShansonTV/index.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Шаян ТВ (Татарстан)
