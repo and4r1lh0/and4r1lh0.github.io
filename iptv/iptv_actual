@@ -66,9 +66,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_HOLLYWOODHD/manifest.mpd?token=GTNTc2NjkwO
 #EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Kazakh TV.png" tvg-id="9806",Kazakh TV
 https://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhYzFkOWZhOThjNWU5MjFhMzEwN2Q1NGE
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL HD
-https://s25617.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd?token=AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ?|User-agent=HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd?token=AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png" tvg-id="9317",KHL Prime
-https://s25617.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=AzYzBjOTgyNjljNTRhZjYwYTAxYzYzZWZmNDE3N2IwYzk?|User-agent=HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=AzYzBjOTgyNjljNTRhZjYwYTAxYzYzZWZmNDE3N2IwYzk
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/KinoLiving.png" tvg-id="8401",KinoLiving HD
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd?token=k9ODJhNzRhZDAzOGU4OWUyYzljNmUzMTFiOTM2YTViOTg=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" tvg-id="9808",MCM TOP
