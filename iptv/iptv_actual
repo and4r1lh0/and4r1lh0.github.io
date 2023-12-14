@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Кто куда.png" tvg-id="9318",#КтоКуда
 https://s25617.cdn.ngenix.net/mdrm/CH_KTOKUDA/manifest.mpd?token=LwMDk1YjRlZmI1Zjc1NzdiNjkzZWFlYWYzN2RjMGNkZmE
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/360°.png" tvg-id="9708",360° HD
