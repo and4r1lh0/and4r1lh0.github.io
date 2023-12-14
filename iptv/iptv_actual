@@ -69,8 +69,8 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhY
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL HD
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=token:AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ
-https://s25617.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ
+https://s25617.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd?token=AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png" tvg-id="9317",KHL Prime
 https://s25617.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=AzYzBjOTgyNjljNTRhZjYwYTAxYzYzZWZmNDE3N2IwYzk
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/KinoLiving.png" tvg-id="8401",KinoLiving HD
