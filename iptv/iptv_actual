@@ -388,15 +388,13 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Евроновости.png" tvg-id="9521",Euronews
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1
-https://bal.varcdn.top/lb/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1
-https://bal.varcdn.top/Eurosport1/index.m3u8
+https://e3.varcdn.top/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 http://5.153.180.30:8003/play/a070
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2
-https://bal.varcdn.top/Eurosport2/index.m3u8
+https://e3.varcdn.top/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
 http://5.153.180.30:8003/play/a072
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
@@ -476,13 +474,11 @@ http://95.217.196.109:8081/russia/jimjam/chunks.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Kazakh TV.png" tvg-id="9806",Kazakh TV
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL
-https://bal.varcdn.top/lb/khl/index.m3u8
+http://5.153.180.30:8000/play/a02j
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL HD
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png" tvg-id="9317",KHL Prime
 http://5.153.180.30:8000/play/a025
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png" tvg-id="9317",KHL Prime HD
-https://bal.varcdn.top/lb/khlHD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Kino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3524
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Kino 24
@@ -679,16 +675,10 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sport EU
-https://bal.varcdn.top/setantaplusukraina/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png" tvg-id="9495",Setanta Sports 1
-https://bal.varcdn.top/setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="9496",Setanta Sports 2
-https://bal.varcdn.top/setanta2/index.m3u8
+https://edge04-alm.beetv.kz/bpk-token/2an@rleezlkjrqepjenxknz1piisxe2cbj4sr11ec3ca/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports Ukraine
-https://bal.varcdn.top/setantasport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Shot TV.png" tvg-id="7742",Shot TV
@@ -707,8 +697,6 @@ http://188.113.190.15/23/video.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Spirit TV HD
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Sport 1 HD LT
-https://bal.varcdn.top/lb/sport2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",SPORT | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="7744",Star cinema
@@ -1710,9 +1698,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Спорт-1 (UA)
-https://bal.varcdn.top/sport1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Спорт-2 (UA)
-http://bal.varcdn.top/sport2/index.m3u8
+http://50.7.120.164:8081/sport1/index.m3u8?wmsAuthSign=876173e044dbb317677c3b38026ec4e4-1702741096-711i57i0i64
+#EXTINF:-1 group-title="",Спорт-2 (UA)
+http://50.7.120.164:8081/sport2/index.m3u8?wmsAuthSign=c30f453aa3ca4ab0e7e602a247909b1f-1702741096-711i57i0i64
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Спортивный.png" tvg-id="9280",Спортивный HD
 http://5.153.180.30:8003/play/a079
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Старт.png" tvg-id="7955",Старт
