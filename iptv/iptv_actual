@@ -333,8 +333,6 @@ http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 http://5.153.180.30:8002/play/a06j
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Discovery Channel
 http://5.153.180.30:8000/play/a06j
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Discovery Channel
-http://50.7.120.164:8081/discovery/index.m3u8?wmsAuthSign=833659bc1d79d8d49a5a355e6e581e53-1702732554-711i57i0i64
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
 http://5.153.180.30:8002/play/a0bz
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
@@ -445,8 +443,6 @@ rtmp://93.189.60.202//1052
 http://5.153.180.30:8000/play/a00t
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/History HD.png" tvg-id="9527",History
 https://sc.id-tv.kz:443/HistoryHD
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/History HD.png" tvg-id="9527",History
-http://50.7.120.164:8081/history/index.m3u8?wmsAuthSign=173c5517b4b5be23e61213234e50601a-1702736768-711i57i0i64
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="9566",Hollywood
 http://5.153.180.30:8001/play/a00u
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="9566",Hollywood HD
@@ -579,8 +575,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
-http://50.7.120.164:8081/natgeowild/index.m3u8?wmsAuthSign=564fab97494e9c4f39ef56e417366a51-1702732233-711i57i0i64
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="9535",National Geographic
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="9535",National Geographic
@@ -735,8 +729,6 @@ https://hls.goodgame.ru/hls/201891.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Trash.png" tvg-id="9046",TRASH
 http://5.153.180.30:8001/play/a05w
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Travel channel.png" tvg-id="9559",Travel Channel
-http://50.7.120.164:8081/travel/index.m3u8?wmsAuthSign=6281719f1fa781b6f5f806710809a978-1702732172-711i57i0i64
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Channel HD
 http://5.153.180.30:8002/play/a0c1
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Guide TV
@@ -745,8 +737,6 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure
 http://5.153.180.30:8000/play/a01d
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure
-http://50.7.120.164:8081/travel_adventure/index.m3u8?wmsAuthSign=9014169f4e20fc8303431a53fdcd990b-1702732112-711i57i0i64
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure
 http://92.100.39.32:2289/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",TRT World HD
@@ -1269,8 +1259,6 @@ http://5.153.180.30:8001/play/a03q
 http://5.153.180.30:8003/play/a078
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Моя планета.png" tvg-id="7880",Моя Планета
 http://5.153.180.30:8000/play/a03s
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя стихия.png" tvg-id="9540",Моя стихия
-http://50.7.120.164:8081/morskoi/index.m3u8?wmsAuthSign=c213d9596238d56db71e873812fc1788-1702732175-711i57i0i64
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",МТВ (Волгоград)
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",МТВ Столица
@@ -1317,8 +1305,6 @@ http://217.107.34.114:8008/playlist.m3u8
 http://5.153.180.30:8000/play/a03x
 #EXTINF:-1 group-title="Информационные" tvg-id="simpleTVFakeEpgId",Настоящее Время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Наука.png" tvg-id="7890",Наука 2.0
-http://50.7.120.164:8081/nauka/index.m3u8?wmsAuthSign=ec4b978785fde2ea90328787e8a0a610-1702732236-711i57i0i64
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Наука.png" tvg-id="7890",Наука 2.0 HD
 http://5.153.180.30:8002/play/a0az
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наш Кинопоказ.png" tvg-id="8762",Наш кинопоказ
@@ -1445,8 +1431,6 @@ http://5.153.180.30:8001/play/a05o
 http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Приключения.png" tvg-id="8126",Приключения HD
 http://5.153.180.30:8000/play/a06w
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Приключения.png" tvg-id="8126",Приключения HD
-http://50.7.120.164:8081/priklu_hd/index.m3u8?wmsAuthSign=71820fddff96dc27549b4ed139267270-1702732291-711i57i0i64&rand=0.6728606497989065
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",Прима
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Про любовь.png" tvg-id="8761",Про любовь
@@ -1697,10 +1681,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Спорт-1 (UA)
-http://50.7.120.164:8081/sport1/index.m3u8?wmsAuthSign=876173e044dbb317677c3b38026ec4e4-1702741096-711i57i0i64
-#EXTINF:-1 group-title="",Спорт-2 (UA)
-http://50.7.120.164:8081/sport2/index.m3u8?wmsAuthSign=c30f453aa3ca4ab0e7e602a247909b1f-1702741096-711i57i0i64
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Спортивный.png" tvg-id="9280",Спортивный HD
 http://5.153.180.30:8003/play/a079
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Старт.png" tvg-id="7955",Старт
