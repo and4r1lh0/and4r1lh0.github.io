@@ -99,8 +99,6 @@ http://5.153.180.30:8000/play/a00b
 http://5.153.180.30:8001/play/a00b
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",American Movie Classics HD CA
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Amga
-http://iptvtree.net:8080/mariopalberto/d72830ce91/145877
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Amga TV HD
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Amgtv
@@ -135,8 +133,6 @@ http://moobl.ru/hls/Backustv_horror.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Baraza TV Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",BCU СССР HD
-http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Best of Dance HD
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Best of Dance TV
@@ -225,82 +221,10 @@ http://ott.server-iptv.live/694/video.m3u8?token=M4f082ab4c
 http://ott.server-iptv.live/692/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="IPTV Play" tvg-id="simpleTVFakeEpgId",CineMan Универ
 http://ott.server-iptv.live/1656/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Anime アニメ
-http://anime.stream4k.ru/anime/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Asia
-http://asia_4k.stream4k.ru/asia_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Bollywood music
-http://bollywood_music_4k.stream4k.ru/bollywood_music_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Concert
-http://concert_4k.stream4k.ru/concert_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Gamefilm
-http://gamefilm_4k.stream4k.ru/gamefilm_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K HBO series
-http://NBO_series_4k.stream4k.ru/NBO_series_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Heavy metal
-http://heavy_metal_4k.stream4k.ru/heavy_metal_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Korean music
-http://korean_music_4k.stream4k.ru/korean_music_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Kинодети Cсср
-http://kinoids_4k.stream4k.ru/kinoids_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Netflix
-http://Netflix_4K.stream4k.ru/Netflix_4K/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Russian music
-http://russian_music_4k.stream4k.ru/russian_music_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Ukrainian music
-http://music_ukraine.stream4k.ru/music_ukraine/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Walt Disney
-http://Walt_Disney_4k.stream4k.ru/Walt_Disney_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K World Music
-http://music_1_4K.stream4k.ru/music_1_4K/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K АвтоМастер
-http://AutoMaster_4k.stream4k.ru/AutoMaster_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Боевик
-http://combat_4k.stream4k.ru/combat_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Военные
-http://military_4k.stream4k.ru/military_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Города
-http://relax_fireplace_4k.stream4k.ru/relax_fireplace_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Драмы
-http://dramas_4K.stream4k.ru/dramas_4K/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Единоборства
-http://martial_arts_4k.stream4k.ru/martial_arts_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Звериный мир
-http://animal_world_4k.stream4k.ru/animal_world_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Истории во времени
-http://stories_in_time_4k.stream4k.ru/stories_in_time_4k/video.m3u8?token=ваш токен
 #EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K КиноНовинки
 http://MovieNews.stream4k.ru/MovieNews/video.m3u8?token=PETWQvXOn7uIh3
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k КиноФраншизы
-http://movie_90s_4k.stream4k.ru/movie_90s_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Классика кино
-http://western_4k.stream4k.ru/western_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Комедия
-http://comedy.stream4k.ru/comedy/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Космомир
-http://cosmosmir_4k.stream4k.ru/cosmosmir_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Мультимир
-http://multimir_4k.stream4k.ru/multimir_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Мультляндия
-http://childrens_cartoons_4k.stream4k.ru/childrens_cartoons_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Мюзикл
-http://retro_hits_channel_4k.stream4k.ru/retro_hits_channel_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Приключения
-http://adventures_4K.stream4k.ru/adventures_4K/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Путешествие
-http://travel_dok_4k.stream4k.ru/travel_dok_4k/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Сделано в СССР
-http://made_in_the_USSR_4K.stream4k.ru/made_in_the_USSR_4K/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Семейный
-http://family_4k.stream4k.ru/family_4k/video.m3u8?token=ваш токен
 #EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4k Сумеречный Эфир
 http://twilight_aether_4k.stream4k.ru/twilight_aether_4k/video.m3u8?token=PETWQvXOn7uIh3
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Ужасы
-http://horrors.stream4k.ru/horrors/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Фантастика
-http://fantastic.stream4k.ru/fantastic/video.m3u8?token=ваш токен
-#EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Clarity4K Фэнтези
-http://fantasy_4k.stream4k.ru/fantasy_4k/video.m3u8?token=ваш токен
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Clubbing TV.png" tvg-id="9714",Clubbing TV HD
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",CNA International HD
@@ -338,8 +262,6 @@ http://5.153.180.30:8002/play/a0bz
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
 https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science
-http://81.177.136.209:8004/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science
 http://5.153.180.30:8000/play/a08n
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science HD
 http://5.153.180.30:8002/play/a08n
@@ -367,8 +289,6 @@ https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",EDGEsport (1080p) [Not 24/7]
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Eleven Sports 1 HD PL
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",ELEVEN SPORTS 1 UHD PT
@@ -385,14 +305,10 @@ http://5.153.180.30:8002/play/a07l
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Евроновости.png" tvg-id="9521",Euronews
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1
-https://e3.varcdn.top/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 http://5.153.180.30:8003/play/a070
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2
-https://e3.varcdn.top/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
 http://5.153.180.30:8003/play/a072
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
@@ -425,8 +341,6 @@ https://sc.id-tv.kz:443/FOX_HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Fox Soul
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FoxLife HD.png" tvg-id="9510",FOXLife HD
-https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Fresh TV (ARM) HD
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",FTV Midnite Secrets HD
@@ -505,8 +419,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Meteonews HD
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Mini Mini
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",MMA TV
 http://tv.tuva.ru/m1global/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",MNB Sport
@@ -669,10 +581,6 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="9496",Setanta Sports 2
-https://edge04-alm.beetv.kz/bpk-token/2an@rleezlkjrqepjenxknz1piisxe2cbj4sr11ec3ca/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports Qazaqstan
-https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Setanta Sports+ Ukraine
 http://146.59.85.40:89/setantaplus/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Shot TV.png" tvg-id="7742",Shot TV
@@ -743,8 +651,6 @@ http://92.100.39.32:2289/play/a05r/index.m3u8
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Trаsh HD
 https://cdn-lb.iptv2022.com/p/UdjqfJHlmz2b32KwrvY6xg,1690059614/streaming/trash/324/1/tracks-v4a1/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV 1000 Action HD
-http://91.234.255.18:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TV BRICS.png" tvg-id="9593",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",TV BRICS (Chinese)
@@ -1063,8 +969,6 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кино ТВ.png" tvg-id="8124",Кино ТВ
 http://5.153.180.30:8001/play/a02n
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кино ТВ +7
-http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кино ТВ.png" tvg-id="8124",Кино ТВ HD
 http://5.153.180.30:8001/play/a0af
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кинозал 12
@@ -1299,8 +1203,6 @@ http://5.153.180.30:8000/play/a0aw
 https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/Мультиландия.png" tvg-id="7887",Мультиландия
 http://5.153.180.30:8002/play/a03y
-#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.it999.ru/img/2757.png" tvg-id="7887",Мультиландия
-http://217.107.34.114:8008/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/Мультимузыка.png" tvg-id="7888",Мультимузыка
 http://5.153.180.30:8000/play/a03x
 #EXTINF:-1 group-title="Информационные" tvg-id="simpleTVFakeEpgId",Настоящее Время
