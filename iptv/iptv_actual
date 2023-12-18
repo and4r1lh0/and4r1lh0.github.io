@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.black.png" tvg-id="8717",.black
-http://5.153.180.30:8001/play/a01a
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/935.png" tvg-id="8717",.Black
-http://188.113.190.15/186/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.black.png" tvg-id="8717",.black
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9zb255dHVyYm8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4NCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nvbnl0dXJiby9pbmRleC5/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.red.png" tvg-id="7620",.red
-http://5.153.180.30:8001/play/a001
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/311.png" tvg-id="7620",.Red
-http://188.113.190.15/22/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.red.png" tvg-id="7620",.red
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9zb255dHYvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4MiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nvbnl0di9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.red.png" tvg-id="7620",.red HD
-http://5.153.180.30:8001/play/a05v
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.red.png" tvg-id="7620",.red HD
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9zb255aGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4NSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NvbnloZC9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/.sci-fi.png" tvg-id="8720",.sci-fi
-http://5.153.180.30:8001/play/a019
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",.sci‑fi
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9zb255c2NpZmkvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4MyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NvbnlzY2lmaS9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",1 HD
@@ -35,8 +23,6 @@ http://178.212.71.253:8002/play/a00b/index.m3u8
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4MzIiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwLzFIRC92aWRlby5tM3U4P3R/video.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/2х2.png" tvg-id="7623",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/2х2.png" tvg-id="7623",2x2
-http://5.153.180.30:8001/play/a003
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/2х2.png" tvg-id="7623",2x2
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC8yeDIvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI2MiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwLzJ4Mi9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",2x2 (+2)
@@ -99,32 +85,10 @@ http://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 http://91.185.81.166:8080/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",ALL SPORTS TV
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/A1 HD.png" tvg-id="9417",Amedia 1
-http://5.153.180.30:8001/play/a008
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-id="9417",Amedia 1
-http://5.153.180.30:8000/play/a008
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/A1 HD.png" tvg-id="9417",Amedia 1 HD
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvYW1lZGlhMS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIyNCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FtZWRpYTEvaW5kZXgubTN/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/A2 HD.png" tvg-id="9556",Amedia 2
-http://5.153.180.30:8001/play/a009
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/918.png" tvg-id="9556",Amedia 2
-http://5.153.180.30:8000/play/a009
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/A2 HD.png" tvg-id="9556",Amedia 2 HD
-http://5.153.180.30:8001/play/a08d
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/A2 HD.png" tvg-id="9556",Amedia 2 HD
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvYW1lZGlhMi92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIyNSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FtZWRpYTIvaW5kZXgubTN/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" tvg-id="9595",Amedia Hit
-http://5.153.180.30:8001/play/a00a
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-id="9595",Amedia Hit HD
-http://5.153.180.30:8000/play/a08e
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" tvg-id="9595",Amedia Hit HD
-http://5.153.180.30:8001/play/a08e
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" tvg-id="9595",Amedia Hit HD
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L2FtZWRpYWhpdGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjI2IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FtZWRpYWhpdGhkL2luZGV/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-id="7635",Amedia Premium HD
-http://5.153.180.30:8000/play/a00b
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Amedia Premium HD.png" tvg-id="7635",Amedia Premium HD
-http://5.153.180.30:8001/play/a00b
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Amedia Premium HD.png" tvg-id="7635",Amedia Premium HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9hbWVkaWFwcmVtaXVtaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzNDIiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FtZWRpYXByZW1pdW1oZC9/index.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",American Movie Classics HD CA
@@ -140,13 +104,9 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/play
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/Ani.png" tvg-id="7636",Ani
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1NjAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FuaS9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="9557",Animal Planet
-http://5.153.180.30:8000/play/a06i
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="9557",Animal Planet
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNDkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FuaW1hbHBsYW5ldC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Animal Planet  HD
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FuaW1hbHBsYW5ldGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTUwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2FuaW1hbHBsYW5ldGhkL2l/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="9557",Animal Planet HD
-http://5.153.180.30:8002/play/a0by
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="9557",Animal Planet HD
 https://livetv.mylifeisgood.net.ru/channels/06abc038d8d3467acfaa5a154c9a8c95863f3ca86d5677a9a9caa9d381e3d7f3.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-id="simpleTVFakeEpgId",AR TV
@@ -159,7 +119,7 @@ http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiL
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Art Sports
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",ATV TR
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",ATV TR
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU4MiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2F0dnRyL2luZGV4Lm0zdTg/index.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-id="simpleTVFakeEpgId",Azatutyun TV
 http://ost.fox-tv.fun/2aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI2NTgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL2FtX0F6YXR1dHl1bl9UVi9/video.m3u8
@@ -187,8 +147,6 @@ http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Bollywood HD.png" tvg-id="7644",Bollywood HD
 http://5.153.180.30:8001/play/a00d
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Bolt HD.png" tvg-id="7645",Bolt
-http://5.153.180.30:8001/play/a08h
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Bolt HD.png" tvg-id="7645",Bolt
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9ib2x0aGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2JvbHRoZC9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Bolt HD.png" tvg-id="7645",Bolt HD
@@ -299,11 +257,11 @@ http://twilight_aether_4k.stream4k.ru/twilight_aether_4k/video.m3u8?token=PETWQv
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",CNA International HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",CNBC
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",CNBC
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNzkxIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1VTX0NOQkNfSEQvdmlkZW8/video.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",CNN
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",CNN
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI3OTAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1VTX0NOTl9IRC92aWRlby5/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Cobra TV Comedy
 http://158.101.194.132:8888/channel/nd9e872d/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
@@ -334,35 +292,21 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Diaspora TV HD
 http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Discovery Channel
-http://5.153.180.30:8002/play/a06j
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Discovery Channel
-http://5.153.180.30:8000/play/a06j
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Discovery Channel
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTU0IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Rpc2NvdmVyeWNoYW5uZWw/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
-http://5.153.180.30:8002/play/a0bz
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
 https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="9647",Discovery Channel HD
 http://ost.fox-tv.fun/oZC9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9kaXNjb3ZlcnljaGFubmVsaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNTUiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Rpc2NvdmVyeWNoYW5uZWx/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science
-http://5.153.180.30:8000/play/a08n
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTU2IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Rpc2NvdmVyeXNjaWVuY2U/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science HD
-http://5.153.180.30:8002/play/a08n
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Discovery Science.png" tvg-id="9524",Discovery Science HD
 http://ost.fox-tv.fun/oZC9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9kaXNjb3ZlcnlzY2llbmNlaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNTciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Rpc2NvdmVyeXNjaWVuY2V/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Disney
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxODciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Rpc25leS9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/DocuBox.png" tvg-id="9525",Docubox
-http://5.153.180.30:8002/play/a08o
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/DocuBox.png" tvg-id="9525",DocuBox
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODgvRG9jdUJveC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIyNyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0RvY3VCb3gvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/DTX.png" tvg-id="9526",DTX
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNzUiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2R0eC9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",DTX HD
-http://5.153.180.30:8002/play/a0c3
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",DTX HD
 http://45.159.74.14:80/DTX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",DTX HD
@@ -416,13 +360,7 @@ http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiL
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 http://5.153.180.30:8003/play/a070
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
-https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="7672",Eurosport 1 HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9ldXJvc3BvcnQxaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzMyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2V1cm9zcG9ydDFoZC9pbmR/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
-http://5.153.180.30:8003/play/a072
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
-https://livetv.mylifeisgood.net.ru/channels/84176c70f4eef2a3e7f11ed2f1560c9afa8f2c529c215204371ea56ec5abb807.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png" tvg-id="7673",Eurosport 2 HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9ldXJvc3BvcnQyaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNDgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2V1cm9zcG9ydDJoZC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Extreme sports.png" tvg-id="9491",Extreme Sports HD
@@ -443,8 +381,6 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/FightBox.png" tvg-id="9563",Fightbox
-http://5.153.180.30:8003/play/a08t
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/FightBox.png" tvg-id="9563",FightBox HD
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjI4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0ZpZ2h0Qm94SEQvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FilmBox.png" tvg-id="9564",FilmBox
@@ -470,16 +406,14 @@ http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxL
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FOX HD.png" tvg-id="9509",Fox
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI5OSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ZveC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FOX HD.png" tvg-id="9509",FOX HD
-https://sc.id-tv.kz:443/FOX_HD
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FOX HD.png" tvg-id="9509",FOX HD
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ZveGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiOTciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ZveGhkL2luZGV4Lm0zdTg/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",FOX HD TR
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",FOX HD TR
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNTgxIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ZveGhkdHIvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FoxLife HD.png" tvg-id="9510",Fox Life
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTAwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ZveGxpZmUvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FoxLife HD.png" tvg-id="9510",Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",Fox News
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Fox News
 http://ost.fox-tv.fun/pZGVvLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjgzNCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1VTX0ZPWF9ORVdTX0hEL3Z/video.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Fox Soul
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
@@ -520,11 +454,7 @@ http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsI
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",FTV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="7962",Galaxy TV
-http://5.153.180.30:8002/play/a0bn
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="7962",Galaxy TV
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyOTkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0dhbGF4eS9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="7962",Galaxy TV HD
-http://5.153.180.30:8002/play/a06x
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="7962",Galaxy TV HD
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg4L0dhbGF4eUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzAwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0dhbGF4eUhEL2luZGV4Lm0/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Go Traveler (720p)
@@ -551,10 +481,6 @@ https://sc.id-tv.kz:443/HistoryHD
 http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvaDJoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIzMiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2gyaGQvaW5kZXgubTN1OD9/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",History HD
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9oaXN0b3J5aGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxODIiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2hpc3RvcnloZC9pbmRleC5/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="9566",Hollywood
-http://5.153.180.30:8001/play/a00u
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="9566",Hollywood HD
-http://5.153.180.30:8001/play/a00v
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="9566",Hollywood HD
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L2hvbGx5d29vZGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzAyIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2hvbGx5d29vZGhkL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Horizon Sports HD
@@ -565,10 +491,6 @@ http://cdn-lb.iptv2022.com/p/JO51zkFM_kuwr_Rlt-mHfQ,1696194010/streaming/horror_
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.veranzo.ru/other/icons/iConcerts.png" tvg-id="9191",iConcerts
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9pY29uY2VydHMvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzNTAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ljb25jZXJ0cy9pbmRleC5/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",ID Investigation Discovery
-http://5.153.180.30:8002/play/a06l
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",ID Investigation Discovery HD
-http://5.153.180.30:8002/play/a0c4
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",InRating HD
 http://ost.fox-tv.fun/rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjY0MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1lvL2luZGV4Lm0zdTg_dG9/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Insight Ultra HD.png" tvg-id="9530",Insight UHD
@@ -585,14 +507,12 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Jim Jam.png" tvg-id="9501",JimJam
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1NjEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2ppbWphbS9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",Kanal D TR
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Kanal D TR
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1ODAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2thbmFsZC9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Kazakh TV.png" tvg-id="9806",Kazakh TV
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-id="simpleTVFakeEpgId",Kentron
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjYwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL2FtX0tlbnRyb24vdmlkZW8/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL
-http://5.153.180.30:8000/play/a02j
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png" tvg-id="9316",KHL HD
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png" tvg-id="9317",KHL Prime
@@ -681,7 +601,7 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",MS ANIMATED
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiODQ4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjUuZm94LXR2LmZ1bjo4MDgwL01TQU5JTUFURUQvaW5kZXg/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",Mtavari  Arkhi
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Mtavari  Arkhi
 http://ost.fox-tv.fun/vdmlkZW8ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjcwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL0dFX010YXZhcmlfQXJraGk/video.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",MTV 00s
 http://89.254.128.5:22280/mtv_00/video.m3u8
@@ -796,8 +716,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="9536",Ocean TV
-http://5.153.180.30:8000/play/a09a
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="9536",Ocean TV
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNTU4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL29jZWFudHYvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
@@ -879,7 +797,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjk3IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1J1c3NraXlla3N0cmltNGs/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.veranzo.ru/other/icons/Music Box Russia.png" tvg-id="9810",Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",Rustavi 2
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Rustavi 2
 http://ost.fox-tv.fun/vLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjY3MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL0dFX1JVU1RBVkkyL3ZpZGV/video.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",SA-OK Dessau HD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
@@ -907,11 +825,9 @@ http://ost.fox-tv.fun/2aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02c
 http://ost.fox-tv.fun/vLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjQ3NyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL2FtX1NoYW50X1RWL3ZpZGV/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Shot TV.png" tvg-id="7742",Shot TV
 http://persik.tv/stream/7725/408679/10454.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Shot TV.png" tvg-id="7742",SHOT TV
-http://5.153.180.30:8001/play/a018
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Shot TV.png" tvg-id="7742",Shot TV
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC9TaG90VFYvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzMzciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1Nob3RUVi9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",Show HD TR
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Show HD TR
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1NzgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nob3doZC9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Sky Folk TV HD
 http://skyfolk.mk/live.m3u8
@@ -993,14 +909,10 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",SPORT | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="7744",Star cinema
-http://5.153.180.30:8001/play/a09h
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="7744",Star Cinema HD
 rtmp://93.189.60.202//992
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="7744",Star Cinema HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9TdGFyQ2luZW1hSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyNjciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1N0YXJDaW5lbWFIRC9pbmR/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Family HD.png" tvg-id="7745",Star Family
-http://5.153.180.30:8001/play/a09i
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Star Family HD.png" tvg-id="7745",Star Family HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9TdGFyRmFtaWx5SEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyNjgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1N0YXJGYW1pbHlIRC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/START Air.png" tvg-id="7565",START Air
@@ -1021,12 +933,8 @@ http://hls.goodgame.ru/hls/180509.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/TERRA.png" tvg-id="9800",TERRA
-http://5.153.180.30:8000/play/a011
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/TERRA.png" tvg-id="9800",Terra
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjczNSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1RlcnJhX0hEL3ZpZGVvLm0/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.postimg.cc/cLTgxmx9/111.png" tvg-id="9800",TERRA HD
-http://5.153.180.30:8000/play/a012
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",This is Bulgaria HD
@@ -1056,20 +964,16 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Trash.png" tvg-id="simpleTVFakeEpgId",TRASH
 http://5.153.180.30:8001/play/a05w
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Channel HD
-http://5.153.180.30:8002/play/a0c1
-#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Channel HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9UcmF2ZWxDaGFubmVsSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyOTUiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1RyYXZlbENoYW5uZWxIRC9/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure
-http://5.153.180.30:8000/play/a01d
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure
 http://92.100.39.32:2289/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="8122",Travel+Adventure HD
 http://ost.fox-tv.fun/1cmVIRC9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9UcmF2ZWxwbHVzQWR2ZW50dXJlSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNjMiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1RyYXZlbHBsdXNBZHZlbnR/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",TRT MÜZIK
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",TRT MÜZIK
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU4NSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3RydG11emlrL2luZGV4Lm0/index.m3u8
 #EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",TRT World HD
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
@@ -1088,36 +992,20 @@ https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/TV XXI.png" tvg-id="7756",TV XXI
 http://5.153.180.30:8001/play/a09n
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="9431",TV1000
-http://5.153.180.30:8001/play/a01e
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="9431",TV1000
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC90djEwMDAvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMDciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMC9pbmRleC5tM3U/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV1000 Action
-http://5.153.180.30:8000/play/a01f
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV1000 Action
-http://5.153.180.30:8001/play/a01f
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV1000 Action
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni90djEwMDBhY3Rpb24vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMDkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMGFjdGlvbi9pbmR/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="9382",TV1000 Action HD
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L3R2MTAwMGFjdGlvbmhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTEwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMGFjdGlvbmhkL2l/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="9431",TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="9431",TV1000 HD
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L3R2MTAwMGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTA4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMGhkL2luZGV4Lm0/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Viasat Kino World.png" tvg-id="9841",TV1000 World Kino
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9UVjEwMDBXb3JsZEtpbm8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1MDQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1RWMTAwMFdvcmxkS2luby9/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="9383",TV1000 Русское кино
-http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="9383",TV1000 Русское кино
-http://5.153.180.30:8001/play/a01g
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="9383",TV1000 Русское кино
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvdHYxMDAwcnVzc2tvZS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjExMSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMHJ1c3Nrb2UvaW5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="9383",TV1000 Русское кино HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="9383",TV1000 Русское кино HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni90djEwMDBydXNza29laGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMTIiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3R2MTAwMHJ1c3Nrb2VoZC9/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",TV8 HD TR
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",TV8 HD TR
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNTY4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3RydHY4aGQvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",TVS Classic Sports (360p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
@@ -1135,10 +1023,6 @@ http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtd
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="8893",Ultra HD Cinema
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="8893",Ultra HD Cinema
-http://5.153.180.30:8001/play/a05x
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="8893",Ultra HD Cinema
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="4K" tvg-logo="https://www.veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="8893",Ultra HD Cinema 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="4K" tvg-id="simpleTVFakeEpgId",Ultra Rex
@@ -1162,21 +1046,11 @@ http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5md
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Explore.png" tvg-id="9377",Viasat Explore
-http://5.153.180.30:8002/play/a01h
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Explore.png" tvg-id="9377",Viasat Explore
-http://5.153.180.30:8000/play/a01h
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Explore.png" tvg-id="9377",Viasat Explore
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjE4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdGV4cGxvcmUvaW5/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Explore.png" tvg-id="9377",Viasat Explore HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Explore.png" tvg-id="9377",Viasat Explore HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni92aWFzYXRleHBsb3JlaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyMTkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdGV4cGxvcmVoZC9/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju History.png" tvg-id="9378",Viasat History
-http://5.153.180.30:8002/play/a09o
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju History.png" tvg-id="9378",Viasat History
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvdmlhc2F0aGlzdG9yeS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIxNiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdGhpc3RvcnkvaW5/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju History.png" tvg-id="9378",Viasat History HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju History.png" tvg-id="9378",Viasat History HD
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC85NzgvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyOTQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwLzk3OC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Viasat Kino
@@ -1185,56 +1059,32 @@ http://91.210.251.166:4893/udp/239.0.3.4:4000
 http://ln.tabox.in:24651/iWPFhYwcSz/WaNC8k08Lp/21929
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Viasat Kino Action
 http://91.210.251.166:4895/udp/239.0.3.6:4000
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Viasat Kino Action
-http://ln.tabox.in:24651/iWPFhYwcSz/WaNC8k08Lp/184364
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Viasat Kino Comedy
 http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Viasat Kino World.png" tvg-id="9841",Viasat Kino World
 http://91.210.251.166:4894/udp/239.0.3.5:4000
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Viasat Kino World.png" tvg-id="9841",Viasat Kino World
-http://ln.tabox.in:24651/iWPFhYwcSz/WaNC8k08Lp/21933
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Nature.png" tvg-id="9379",Viasat Nature
-http://5.153.180.30:8002/play/a01i
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Nature.png" tvg-id="9379",Viasat Nature
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyMTciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdG5hdHVyZS9pbmR/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Nature.png" tvg-id="9379",Viasat Nature HD
-https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju Nature.png" tvg-id="9379",Viasat Nature HD
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1ZpYXNhdE5hdHVyZUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjkzIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1ZpYXNhdE5hdHVyZUhEL2l/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Planet.png" tvg-id="9380",Viasat Nature/History HD
-http://5.153.180.30:8002/play/a01j
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Planet.png" tvg-id="9380",Viasat Nature/History HD
-http://5.153.180.30:8000/play/a01j
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Planet.png" tvg-id="9380",Viasat Nature/History HD
 http://ost.fox-tv.fun/0b3J5SEQvaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvVmlhc2F0TmF0dXJlL0hpc3RvcnlIRC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIyMiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1ZpYXNhdE5hdHVyZS9IaXN/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Sport.png" tvg-id="9387",Viasat Sport
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg4L3ZpYXNhdHNwb3J0L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjIwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdHNwb3J0L2luZGV/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Sport.png" tvg-id="9387",Viasat Sport HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvdmlhc2F0c3BvcnRoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIyMSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpYXNhdHNwb3J0aGQvaW5/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="9384",ViP Comedy HD
-http://5.153.180.30:8001/play/a01l
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2823.png" tvg-id="9384",VIP Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="9384",VIP Comedy HD
-http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcGNvbWVkeWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTA1IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcGNvbWVkeWhkL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",VIP Family
 http://moobl.ru/hls/VIP_family.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/1012.png" tvg-id="9385",VIP Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Megahit.png" tvg-id="9385",ViP Megahit HD
-http://5.153.180.30:8001/play/a01m
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Megahit.png" tvg-id="9385",VIP Megahit HD
-http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4NS92aXBtZWdhaGl0aGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMDQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcG1lZ2FoaXRoZC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/vip-premiere.png" tvg-id="9386",VIP Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Premiere.png" tvg-id="9386",ViP Premiere HD
 http://5.153.180.30:8001/play/a01n
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Premiere.png" tvg-id="9386",VIP Premiere HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAvdmlwcHJlbWllcmVoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjEwMyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcHByZW1pZXJlaGQvaW5/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-id="9376",VIP Serial HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Serial.png" tvg-id="9376",ViP Serial HD
-http://5.153.180.30:8001/play/a09q
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/viju+ Serial.png" tvg-id="9376",VIP Serial HD
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcHNlcmlhbGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTA2IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ZpcHNlcmlhbGhkL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",VIVA Russia
@@ -1289,12 +1139,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/varia
 http://ost.fox-tv.fun/kZW8ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjUyIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL2FtX0FybWVuaWFfVFYvdml/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Арсенал.png" tvg-id="8767",Арсенал HD
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvYXJzZW5hbC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjE4NiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Fyc2VuYWwvaW5kZXgubTN/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Блокбастер.png" tvg-id="7784",Блокбастер
-http://5.153.180.30:8001/play/a05z
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Блокбастер.png" tvg-id="7784",Блокбастер HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvYmxva2Jhc3Rlcl9oZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU5NiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Jsb2tiYXN0ZXJfaGQvaW5/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Большая Азия.png" tvg-id="7787",Большая Азия
-http://5.153.180.30:8000/play/a06p
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Большая Азия.png" tvg-id="7787",Большая Азия
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9ib2xzaGFqYWFzaWEvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1MzEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2JvbHNoYWphYXNpYS9pbmR/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.veranzo.ru/other/icons/Большая Азия.png" tvg-id="7787",Большая Азия HD
@@ -1305,8 +1151,6 @@ http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="7788",В гостях у сказки
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1NDciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1Znb3N0eWFodXNrYXpraS9/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/В мире животных.png" tvg-id="8743",В мире животных HD
-http://5.153.180.30:8000/play/a06q
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/В мире животных.png" tvg-id="8743",В мире животных HD
 http://ost.fox-tv.fun/oL3ZpZGVvLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjY4MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1ZfbWlyZV96aGl2b3RueWt/video.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Волга
@@ -1354,15 +1198,11 @@ https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/День Победы.png" tvg-id="9119",День Победы HD
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjE5IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0Rlbl9Qb2JlZGkvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/Детский мир.png" tvg-id="7794",Детский мир
-http://5.153.180.30:8002/play/a05r
-#EXTINF:-1 group-title="Детские" tvg-logo="https://www.veranzo.ru/other/icons/Детский мир.png" tvg-id="7794",Детский мир
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzI0IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0RldHNraXltaXIvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Детский мир HD
 http://5.153.180.30:8002/play/a0bw
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Дзержинск ТВ HD
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Дикая охота HD.png" tvg-id="7796",Дикая охота HD
-http://5.153.180.30:8000/play/a020
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Дикая охота HD.png" tvg-id="7796",Дикая охота HD
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg4L0Rpa2F5YU9raG90YUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjk2IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0Rpa2F5YU9raG90YUhEL2l/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Дикая рыбалка HD.png" tvg-id="7797",Дикая рыбалка
@@ -1382,21 +1222,13 @@ http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10d
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Доктор.png" tvg-id="7800",Доктор
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9Eb2t0b3IvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzMzQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0Rva3Rvci9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино.png" tvg-id="7801",Дом кино
-http://5.153.180.30:8001/play/a024
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино.png" tvg-id="7801",Дом кино
 http://45.144.31.195:8031/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино.png" tvg-id="7801",Дом кино
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODUvZG9ta2luby92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjQ4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2RvbWtpbm8vaW5kZXgubTN/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино премиум HD.png" tvg-id="7802",Дом Кино Премиум
-http://5.153.180.30:8000/play/a05q
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино премиум HD.png" tvg-id="7802",Дом кино Премиум HD
-http://5.153.180.30:8001/play/a05q
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дом кино премиум HD.png" tvg-id="7802",Дом кино Премиум HD
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvZG9ta2lub3ByZW1pdW1oZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjExNyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2RvbWtpbm9wcmVtaXVtaGQ/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Домашние животные.png" tvg-id="7803",Домашние животные
 http://ost.fox-tv.fun/ueXllL2luZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0RvbWFzaG5peWV6aGl2b3RueXllL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTY4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0RvbWFzaG5peWV6aGl2b3R/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Домашний.png" tvg-id="9342",Домашний
-http://5.153.180.30:8001/play/a027
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Домашний.png" tvg-id="9342",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Домашний.png" tvg-id="9342",Домашний
@@ -1424,21 +1256,13 @@ http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1c
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дорама.png" tvg-id="7804",Дорама
 http://109.197.192.121:8080/dorama/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дорама.png" tvg-id="7804",Дорама
-http://5.153.180.30:8001/play/a00i
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Дорама.png" tvg-id="7804",Дорама
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1MyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjUuZm94LXR2LmZ1bjo4MDgwL0RvcmFtYV9IRC9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Драйв.png" tvg-id="7805",Драйв
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L0RyYXl2L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzMzIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0RyYXl2L2luZGV4Lm0zdTg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Душевное HD
-http://5.153.180.30:8000/play/a061
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Душевное HD
-http://5.153.180.30:8001/play/a061
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Душевное HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9uYXNoa2lub3JvbWFuaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI5MCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hc2hraW5vcm9tYW5oZC9/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_ORB_EVRAZIY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Еврокино.png" tvg-id="7806",Еврокино
-http://5.153.180.30:8001/play/a028
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Еврокино.png" tvg-id="7806",Еврокино
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAvRXZyb2tpbm9IRC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjI3OSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0V2cm9raW5vSEQvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Жара.png" tvg-id="9709",Жара HD
@@ -1455,8 +1279,6 @@ http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODgvemFnb3JvZG5peS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjE4MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3phZ29yb2RuaXkvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Звезда.png" tvg-id="9343",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Звезда.png" tvg-id="9343",Звезда
-http://5.153.180.30:8001/play/a02d
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Звезда.png" tvg-id="9343",Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Звезда +
@@ -1476,15 +1298,9 @@ http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZve
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/Известия.png" tvg-id="8957",Известия
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/Известия.png" tvg-id="8957",Известия
-http://5.153.180.30:8001/play/a02e
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/Известия.png" tvg-id="8957",Известия
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/Известия.png" tvg-id="8957",Известия FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Иллюзион+.png" tvg-id="8425",Иллюзион+
-http://5.153.180.30:8001/play/a02f
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Иллюзион+.png" tvg-id="8425",Иллюзион+
-http://5.153.180.30:8000/play/a02f
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Иллюзион+.png" tvg-id="8425",Иллюзион+
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvSWxseXV6aW9ucGx1cy92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjMyMCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0lsbHl1emlvbnBsdXMvaW5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Индийское кино.png" tvg-id="7825",Индийское кино
@@ -1511,12 +1327,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_ZK/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Карусель (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/КИНЕКО.png" tvg-id="9172",КИНЕКО
-http://5.153.180.30:8001/play/a00o
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/КИНЕКО.png" tvg-id="9172",Кинеко
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyNjYiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL0tpbmVrb19IRC92aWRlby5/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/КИНЕКО.png" tvg-id="9172",КИНЕКО HD
-http://5.153.180.30:8001/play/a00p
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кино 1 HD
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кино 1 International
@@ -1547,8 +1359,6 @@ http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzI
 https://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кинозал! Rouge TV
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинокомедия.png" tvg-id="7834",Кинокомедия
-http://5.153.180.30:8001/play/a02v
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/kinokomedia.png" tvg-id="7834",Кинокомедия HD
 http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киноман.png" tvg-id="9568",Киноман
@@ -1559,14 +1369,8 @@ http://5.153.180.30:8001/play/a064
 http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomenu/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киномикс.png" tvg-id="7835",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киномикс.png" tvg-id="7835",Киномикс
-http://5.153.180.30:8001/play/a02o
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/kinomiks.png" tvg-id="7835",Киномикс HD
 http://188.113.190.15/335/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киномикс.png" tvg-id="7835",Киномикс HD
-http://5.153.180.30:8001/play/a0ag
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинопоказ HD.png" tvg-id="7836",Кинопоказ
-http://5.153.180.30:8001/play/a065
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинопоказ HD.png" tvg-id="7836",Кинопоказ
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9raW5vcG9rYXovdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI2NCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2tpbm9wb2thei9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинопоказ HD.png" tvg-id="7836",Кинопоказ HD
@@ -1575,22 +1379,12 @@ http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxL
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинопремьера.png" tvg-id="7837",Кинопремьера HD
 http://188.113.190.15/309/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинопремьера.png" tvg-id="7837",Кинопремьера HD
-http://5.153.180.30:8001/play/a02p
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киносвидание.png" tvg-id="7839",Киносвидание
 http://109.197.192.121:8080/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киносвидание.png" tvg-id="7839",Киносвидание
-http://5.153.180.30:8001/play/a02q
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/КиноСезон.png" tvg-id="9058",Киносезон
 http://cdn-lb.iptv2022.com/p/lHC8soskuRZ4sWwaV4VHJA,1700251079/streaming/kinosezon/324/1/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киносемья.png" tvg-id="7840",Киносемья
-http://5.153.180.30:8001/play/a02r
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/kinosemia.png" tvg-id="7840",Киносемья HD
 http://109.197.192.121:8080/kinosemya/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киносемья.png" tvg-id="7840",Киносемья HD
-http://5.153.180.30:8001/play/a0ah
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киносерия.png" tvg-id="7841",Киносерия
-http://5.153.180.30:8001/play/a02s
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/kinoseria.png" tvg-id="7841",Киносерия HD
 http://188.113.190.15/336/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Киноужас.png" tvg-id="7842",Киноужас
@@ -1605,14 +1399,8 @@ https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
 http://5.153.180.30:8001/play/a02u
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинохит.png" tvg-id="7843",КИНОХИТ HD
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Кинохит.png" tvg-id="7843",Кинохит HD
-http://5.153.180.30:8001/play/a0ai
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Ключ.png" tvg-id="7845",Ключ
 http://5.153.180.30:8000/play/a0aj
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Комедийное HD
-http://5.153.180.30:8000/play/a066
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Комедийное HD
-http://5.153.180.30:8001/play/a066
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Комедийное HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAva29tZWRpeW5veWVIRC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjI5MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2tvbWVkaXlub3llSEQvaW5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Комедия.png" tvg-id="7847",Комедия
@@ -1645,8 +1433,6 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 http://5.153.180.30:8001/play/a0am
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Липецкое время
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Любимое HD
-http://5.153.180.30:8000/play/a067
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Любимое HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9uYXNoZWx5dWJpbW9laGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI5NSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hc2hlbHl1Ymltb2VoZC9/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Любимое кино.png" tvg-id="9428",Любимое кино
@@ -1699,8 +1485,6 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Мир.png" tvg-id="9182",Мир
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Мир.png" tvg-id="9182",МИР
-http://5.153.180.30:8001/play/a03k
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Мир.png" tvg-id="9182",Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Мир (+2)
@@ -1732,8 +1516,6 @@ http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2L
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Мир сериала.png" tvg-id="7875",Мир сериала
-http://5.153.180.30:8001/play/a03n
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Мир сериала.png" tvg-id="7875",Мир сериала
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvbWlyc2VyaWFsYS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU0MiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL21pcnNlcmlhbGEvaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Мир сериала HD
 http://5.153.180.30:8001/play/a0bv
@@ -1757,14 +1539,8 @@ http://5.153.180.30:8001/play/a0ar
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" tvg-id="9185",Мосфильм
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODgvbW9zZmlsbS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjY2OSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL21vc2ZpbG0vaW5kZXgubTN/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" tvg-id="9185",Мосфильм. Золотая коллекция
-http://5.153.180.30:8001/play/a03q
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Моторспорт ТВ.png" tvg-id="9323",Моторспорт ТВ HD
-http://5.153.180.30:8003/play/a078
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Моторспорт ТВ.png" tvg-id="9323",Моторспорт ТВ HD
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg4L01vdG9yc3BvcnRUVkhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzM1IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL01vdG9yc3BvcnRUVkhEL2l/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Моя планета.png" tvg-id="7880",Моя Планета
-http://5.153.180.30:8000/play/a03s
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Моя планета.png" tvg-id="7880",Моя планета
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjMzMiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL01veWFQbGFuZXRhL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Моя планета.png" tvg-id="7880",Моя планета HD
@@ -1825,14 +1601,8 @@ http://ost.fox-tv.fun/hL2luZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU2MyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hdWthL2luZGV4Lm0zdTg/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Наука.png" tvg-id="7890",Наука 2.0 HD
 http://5.153.180.30:8002/play/a0az
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наш Кинопоказ.png" tvg-id="8762",Наш кинопоказ
-http://5.153.180.30:8001/play/a068
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наш Кинопоказ.png" tvg-id="8762",Наш Кинопоказ HD
 http://ost.fox-tv.fun/kL2luZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L25hc2hfa2lub3Bva2F6X2hkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzAxIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hc2hfa2lub3Bva2F6X2h/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь.png" tvg-id="9818",Наша Сибирь 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь.png" tvg-id="9818",Наша Сибирь 4K
-http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyODAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL05hc2hhU2liaXI0Sy9pbmR/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь.png" tvg-id="9818",Наша Сибирь 4К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь.png" tvg-id="9818",Наша Сибирь HD
@@ -1842,13 +1612,9 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Наша тема HD
 http://live-1.otcnet.ru/nashatema1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Наше HD
-http://5.153.180.30:8001/play/a069
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Наше HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAvbmFzaGVrcnV0b2VoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjgwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hc2hla3J1dG9laGQvaW5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Наше любимое.png" tvg-id="9629",Наше любимое кино
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzIzIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL0x5dWJpbW95ZWtpbm8vaW5/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наше Мужское.png" tvg-id="8763",Наше мужское
-http://5.153.180.30:8001/play/a06a
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наше Мужское.png" tvg-id="8763",Наше Мужское HD
 http://ost.fox-tv.fun/kL2luZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L25hc2hlX211emhza29lX2hkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzE3IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25hc2hlX211emhza29lX2h/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Наше новое кино.png" tvg-id="7897",Наше новое кино
@@ -1865,16 +1631,12 @@ http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_NOVIY_VEK/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/Ностальгия.png" tvg-id="9186",Ностальгия
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvbm9zdGFsZ2lqYS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU0NiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25vc3RhbGdpamEvaW5kZXg/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" tvg-id="7889",НСТ
-http://5.153.180.30:8000/play/a03z
 #EXTINF:-1 group-title="" tvg-logo="https://www.veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" tvg-id="7889",НСТ
 http://5.153.180.30:8001/play/a03z
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" tvg-id="7889",НСТ
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9uc3QvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI2MSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL25zdC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ
-http://5.153.180.30:8001/play/a040
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ
@@ -1885,16 +1647,10 @@ http://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L250dnBsdXM0L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTYiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL250dnBsdXM0L2luZGV4Lm0/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",НТВ (+7)
 http://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",НТВ +2
-http://5.153.180.30:8001/play/a0ax
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2964.png" tvg-id="simpleTVFakeEpgId",НТВ +4
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",НТВ +4
-http://5.153.180.30:8001/play/a0ay
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ HD
 http://109.197.192.121:8080/ntvhd/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ HD
-http://5.153.180.30:8001/play/a041
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/НТВ HD.png" tvg-id="9422",НТВ HD
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L250dmhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL250dmhkL2luZGV4Lm0zdTg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",НТВ Мир
@@ -1918,10 +1674,6 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/НТВ Стиль.png" tvg-id="7903",НТВ Стиль
 http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzM5IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL05UVlN0aWwvaW5kZXgubTN/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/НТВ Хит.png" tvg-id="9009",НТВ Хит
-http://5.153.180.30:8001/play/a045
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/НТВ Хит.png" tvg-id="9009",НТВ Хит
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/НТВ Хит.png" tvg-id="9009",НТВ Хит
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9udHZoaXQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyMCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL250dmhpdC9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
@@ -1937,10 +1689,6 @@ http://www.omsk-kprf.ru/hls/stream.m3u8
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L29ydXpoaXllL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTgwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL29ydXpoaXllL2luZGV4Lm0/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/ОСН.png" tvg-id="9070",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Остросюжетное.png" tvg-id="9516",Остросюжетное HD
-http://5.153.180.30:8000/play/a05n
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Остросюжетное.png" tvg-id="9516",Остросюжетное HD
-http://5.153.180.30:8001/play/a05n
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Остросюжетное.png" tvg-id="9516",Остросюжетное HD
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4NS9vc3Ryb3N1amV0bm9laGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI2NiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL29zdHJvc3VqZXRub2VoZC9/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ОТР.png" tvg-id="9187",ОТР
@@ -1959,8 +1707,6 @@ http://ost.fox-tv.fun/5eS9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6L
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjU3MyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3BlcnZpeXZlZ2FuL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Первый канал HD.png" tvg-id="9420",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Первый канал HD.png" tvg-id="9420",Первый канал
-http://5.153.180.30:8001/play/a04f
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png" tvg-id="9420",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/Первый канал HD.png" tvg-id="9420",Первый канал
@@ -1971,14 +1717,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L1BlcnZpeXBsdXM0L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1BlcnZpeXBsdXM0L2luZGV/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Первый канал +2
 http://5.153.180.30:8001/play/a0b2
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Первый канал +4
-http://5.153.180.30:8001/play/a0b3
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Первый канал HD.png" tvg-id="9420",Первый канал HD
 http://5.153.180.30:8001/play/a04e
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/Первый канал HD.png" tvg-id="9420",Первый канал HD
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L1BlcnZpeUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1BlcnZpeUhEL2luZGV4Lm0/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Первый канал HD +4
-http://5.153.180.30:8001/play/a0b4
 #EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Первый канал Европа
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC9wZXJ2aXliYWx0aWMvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI0NjIiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3BlcnZpeWJhbHRpYy9pbmR/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Первый музыкальный
@@ -1997,28 +1739,16 @@ http://moobl.ru/hls/Perec_int.m3u8
 http://ost.fox-tv.fun/hbC9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzMTYiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1BlcmVjSW50ZXJuYXRpb25/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",ПлюсПлюс
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjIwNiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3BsdXNwbHVzL2luZGV4Lm0/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Победа_.png" tvg-id="8426",Победа
-http://5.153.180.30:8001/play/a04h
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/pobeda.png" tvg-id="8426",Победа
-http://109.197.192.121:8080/pobeda/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Победа_.png" tvg-id="8426",Победа HD
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1BvYmVkYWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNCIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1BvYmVkYWhkL2luZGV4Lm0/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Премиальное.png" tvg-id="9517",Премиальное HD
-http://5.153.180.30:8001/play/a05o
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Премиальное.png" tvg-id="9517",Премиальное HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9wcmVtaWFsbm9laGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMTQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ByZW1pYWxub2VoZC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Прибой ТВ HD
 http://iptv46.mcx-ix.ru:8077/priboy_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Приключения.png" tvg-id="8126",Приключения HD
-http://5.153.180.30:8000/play/a06w
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Приключения.png" tvg-id="8126",Приключения HD
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzExIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3ByaWtseWNoZW5pamFfaGQ/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",Прима
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Про любовь.png" tvg-id="8761",Про любовь
-http://5.153.180.30:8000/play/a06b
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Про любовь.png" tvg-id="8761",Про любовь
-http://5.153.180.30:8001/play/a06b
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Про любовь.png" tvg-id="8761",Про любовь HD
 http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9wcm9fbHVib3ZfaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1OTgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Byb19sdWJvdl9oZC9pbmR/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Продвижение.png" tvg-id="9425",Продвижение
@@ -2036,10 +1766,6 @@ http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsd
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",Пятница International
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Пятница! HD.png" tvg-id="9346",Пятница!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Пятница! HD.png" tvg-id="9346",Пятница!
-http://5.153.180.30:8001/play/a04k
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Пятница! HD.png" tvg-id="9346",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Пятница! HD.png" tvg-id="9346",Пятница!
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L3B5YXRuaWNhL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNDEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3B5YXRuaWNhL2luZGV4Lm0/index.m3u8
@@ -2055,8 +1781,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Пятница! HD.png" tvg-id="9346",Пятница! HD
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODUvcHlhdG5pY2FoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjQyIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3B5YXRuaWNhaGQvaW5kZXg/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Пятый кaнaл
-http://5.153.180.30:8001/play/a006
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Пятый канал.png" tvg-id="9341",Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Пятый канал.png" tvg-id="9341",Пятый канал
@@ -2080,8 +1804,6 @@ http://5.153.180.30:8001/play/a04l
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/РБК.png" tvg-id="7932",РБК
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC9yYmsvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyNTMiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Jiay9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="9188",РЕН ТВ
-http://5.153.180.30:8001/play/a04m
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="9188",РЕН ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="9188",Рен ТВ
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L3JlbnR2L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjMiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3JlbnR2L2luZGV4Lm0zdTg/index.m3u8
@@ -2089,10 +1811,6 @@ http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2L
 http://213.59.128.165:8888/play/Ren_TV/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",РЕН ТВ +2
-http://5.153.180.30:8001/play/a0b8
-#EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",РЕН ТВ +4
-http://5.153.180.30:8001/play/a0b9
 #EXTINF:-1 group-title="Федеральные" tvg-id="simpleTVFakeEpgId",Рен ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="9188",РЕН ТВ HD
@@ -2106,8 +1824,6 @@ http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Ретро ТВ.png" tvg-id="7934",Ретро
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1JldHJvL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjMiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1JldHJvL2luZGV4Lm0zdTg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Родное кино.png" tvg-id="7935",Родное кино
-http://5.153.180.30:8001/play/a04p
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Родное кино.png" tvg-id="7935",Родное кино
 http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAvcm9kbm9la2luby92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6Ijk2IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3JvZG5vZWtpbm8vaW5kZXg/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Романтичное.png" tvg-id="9518",Романтичное HD
 http://5.153.180.30:8000/play/a06d
@@ -2117,8 +1833,6 @@ http://5.153.180.30:8001/play/a06d
 http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="9421",Россия 1
 http://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="9421",Россия 1
-http://5.153.180.30:8001/play/a04q
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="9421",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="9421",Россия 1
@@ -2176,10 +1890,6 @@ http://5.153.180.30:8001/play/a04r
 #EXTINF:-1 group-title="Общие" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="9421",Россия 1 HD
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4NS9Sb3NzaWExSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI4IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1Jvc3NpYTFIRC9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Россия 24.png" tvg-id="9348",Россия 24
-http://5.153.180.30:8001/play/a04s
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Россия 24.png" tvg-id="9348",Россия 24
-http://5.153.180.30:8000/play/a04s
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/Россия 24.png" tvg-id="9348",Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://www.veranzo.ru/other/icons/Россия 24.png" tvg-id="9348",Россия 24
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Jvc3NpYTI0L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMTAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Jvc3NpYTI0L2luZGV4Lm0/index.m3u8
@@ -2207,34 +1917,16 @@ http://5.153.180.30:8001/play/a04u
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="7940",Русский Бестселлер
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test++
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="7940",Русский бестселлер
-http://5.153.180.30:8001/play/a04w
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="7940",Русский бестселлер
 http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvcnVzc2tpYmVzdHNlbGxlci92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjYwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3J1c3NraWJlc3RzZWxsZXI/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский детектив.png" tvg-id="7941",Русский детектив
-http://5.153.180.30:8000/play/a04x
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский детектив.png" tvg-id="7941",Русский детектив
-http://5.153.180.30:8001/play/a04x
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский детектив.png" tvg-id="7941",Русский детектив
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3J1c3NraWRldGVrdGl2L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNTkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3J1c3NraWRldGVrdGl2L2l/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="7942",Русский Иллюзион
-http://5.153.180.30:8000/play/a04v
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="7942",Русский иллюзион
-http://5.153.180.30:8001/play/a04v
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="7942",Русский иллюзион
-http://188.113.190.15/44/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="7942",Русский Иллюзион
 http://ost.fox-tv.fun/pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9ydXNza2l5aWxseXppb24vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxMTYiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3J1c3NraXlpbGx5emlvbi9/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="7942",Русский Иллюзион HD
 http://ost.fox-tv.fun/IRC9pbmRleC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9SdXNza2l5aWxseXV6aW9uSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyODEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1J1c3NraXlpbGx5dXppb25/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский Роман.png" tvg-id="8127",Русский Роман
-http://5.153.180.30:8000/play/a04y
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский Роман.png" tvg-id="8127",Русский роман
-http://5.153.180.30:8001/play/a04y
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский Роман.png" tvg-id="8127",Русский Роман HD
 http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/icn/russky-roman.png" tvg-id="8127",РУССКИЙ РОМАН HD
-http://188.113.190.15/221/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский Роман.png" tvg-id="8127",Русский роман HD
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjgwODAvcnVzc2tpcm9tYW5IRC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjQ3IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3J1c3NraXJvbWFuSEQvaW5/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Русский Север FHD
@@ -2260,11 +1952,7 @@ https://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/play
 #EXTINF:-1 group-title="Общие" tvg-logo="https://www.veranzo.ru/other/icons/Санкт-Петербург.png" tvg-id="7946",Санкт-Петербург
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L3Nhbmt0cGVyZXJidXJnL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNTQxIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nhbmt0cGVyZXJidXJnL2l/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/САПФИР.png" tvg-id="9189",Сапфир
-http://5.153.180.30:8001/play/a00q
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/САПФИР.png" tvg-id="9189",Сапфир
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1NTEiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjYuZm94LXR2LmZ1bjo4MDgwL1NhcGZpcl9IRC92aWRlby5/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/САПФИР.png" tvg-id="9189",Сапфир HD
-http://5.153.180.30:8001/play/a010
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Саратов 24
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Саратов 24 (576p)
@@ -2273,8 +1961,6 @@ https://saratov24.tv/online/playlist.php
 http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Саратов-24
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Сарафан.png" tvg-id="7947",Сарафан
-http://5.153.180.30:8001/play/a052
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Сарафан.png" tvg-id="7947",Сарафан
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46ODA4MC9zYXJhZmFudHYvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzOSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NhcmFmYW50di9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Саров 24
@@ -2289,10 +1975,6 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Север ТВ
 http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Сериал UHD.png" tvg-id="9520",Сериал UHD
-http://5.153.180.30:8000/play/a06e
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Сериал UHD.png" tvg-id="9520",Сериал UHD
-http://5.153.180.30:8001/play/a06e
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Сериал UHD.png" tvg-id="9520",Сериал UHD
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI0MjUiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL1NlcmlhbFVIRC9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Сибай ТВ
@@ -2319,10 +2001,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Союз.png" tvg-id="7953",Союз
-http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjE1IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NveXovaW5kZXgubTN1OD9/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Спас.png" tvg-id="7954",Спас
-http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjE0IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NwYXMvaW5kZXgubTN1OD9/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Спортивный.png" tvg-id="9280",Спортивный HD
 http://5.153.180.30:8003/play/a079
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Старт.png" tvg-id="7955",Старт
@@ -2338,13 +2016,9 @@ http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Страшное HD.png" tvg-id="7956",Страшное HD
 http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Страшное HD.png" tvg-id="7956",Страшное HD
-http://5.153.180.30:8001/play/a0bh
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Страшное HD.png" tvg-id="7956",Страшное HD
 http://ost.fox-tv.fun/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3N0cmFzaG5vZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjgiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3N0cmFzaG5vZWhkL2luZGV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС
 http://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС
-http://5.153.180.30:8001/play/a04z
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС
@@ -2357,12 +2031,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",СТС +2
-http://5.153.180.30:8001/play/a0bb
-#EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",СТС +4
-http://5.153.180.30:8001/play/a0bc
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС HD
-http://5.153.180.30:8001/play/a05p
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС HD.png" tvg-id="8988",СТС HD
@@ -2373,8 +2041,6 @@ http://ost.fox-tv.fun/vaW5kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4Ni9zdHNraWRzSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIzNyIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3N0c2tpZHNIRC9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС Love.png" tvg-id="7959",СТС Love
 http://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС Love.png" tvg-id="7959",СТС Love
-http://5.153.180.30:8001/play/a051
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС Love.png" tvg-id="7959",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/СТС Love.png" tvg-id="7959",СТС Love
@@ -2423,8 +2089,6 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТВ-3.png" tvg-id="9350",ТВ-3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТВ-3.png" tvg-id="9350",ТВ-3
-http://5.153.180.30:8001/play/a055
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",ТВ-3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",ТВ-3 (+2) HD
@@ -2482,15 +2146,11 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Тестовый канал (Connectivity check)
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Ruskiy_roman.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Т24.png" tvg-id="9326",Техно 24
-http://5.153.180.30:8000/play/a002
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Т24.png" tvg-id="9326",Техно 24
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg2L3Rla2hubzI0L3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMzMwIiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Rla2hubzI0L2luZGV4Lm0/index.m3u8
-#EXTINF:-1 group-title="Международные" tvg-id="simpleTVFakeEpgId",ТНВ-Татарстан
+#EXTINF:-1 group-title="Иностранные" tvg-id="simpleTVFakeEpgId",ТНВ-Татарстан
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiODM3IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjUuZm94LXR2LmZ1bjo4MDgwL1ROVl9UYXRhcnN0YW4vaW5/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ
-http://5.153.180.30:8001/play/a057
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ
 http://ost.fox-tv.fun/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4NS90bnQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyNiIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3RudC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",ТНТ (+2)
@@ -2518,8 +2178,6 @@ http://5.153.180.30:8001/play/a0bl
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",ТНТ +4
 http://5.153.180.30:8001/play/a0bm
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ HD
-http://5.153.180.30:8001/play/a058
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ HD.png" tvg-id="8991",ТНТ HD
 http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo5OTg1L3RudGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiMjciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3RudGhkL2luZGV4Lm0zdTg/index.m3u8
@@ -2535,8 +2193,6 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ4.png" tvg-id="7979",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ4.png" tvg-id="7979",ТНТ4
-http://5.153.180.30:8001/play/a05a
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/ТНТ4.png" tvg-id="7979",ТНТ4
 http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODYvdG50NC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjI5IiwidCI6IjUzYTkzNzNhNTg5ZThiYmZhMDE3Yzg0MTdhNzBiNWYyIiwiZCI6IjQyMjIxIiwiciI6IjE0MTYyNSJ9eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3RudDQvaW5kZXgubTN1OD9/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="simpleTVFakeEpgId",ТНТ4 (+2)
@@ -2570,12 +2226,6 @@ http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwI
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.veranzo.ru/other/icons/Усадьба.png" tvg-id="7983",Усадьба
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC91c2FkYmEvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIxNzQiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3VzYWRiYS9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="7985",Феникс+Кино
-http://5.153.180.30:8000/play/a06f
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="7985",Феникс+Кино
-http://5.153.180.30:8001/play/a06f
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="7985",Феникс+Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="7985",Феникс+Кино
 http://ost.fox-tv.fun/kZXgubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyMS5mb3gtdHYuZnVuOjk5ODgvZmVuaXhwbHVza2luby92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoidWdvb3NhbTZwbHVzIiwicCI6InVnb29zYW02cGx1c2FlNTc4YjhlIiwiYyI6IjE5NSIsInQiOiI1M2E5MzczYTU4OWU4YmJmYTAxN2M4NDE3YTcwYjVmMiIsImQiOiI0MjIyMSIsInIiOiIxNDE2MjUifQeyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2Zlbml4cGx1c2tpbm8vaW5/index.m3u8
 #EXTINF:-1 group-title="IPTV Play" tvg-id="simpleTVFakeEpgId",Фильм ТВ
 http://158.101.194.132:8080/channel/d2c5c70/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
@@ -2589,10 +2239,6 @@ http://cdn-lb.iptv2022.com/p/TLY9dPvazl78Q24Q-Ucaag,1697749211/streaming/hit/324
 http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHIxLmZveC10di5mdW46OTk4OC9oaXRfaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiI1OTkiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL2hpdF9oZC9pbmRleC5tM3U/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.veranzo.ru/other/icons/Центральное телевидение.png" tvg-id="7989",Центральное Телевидение
 http://5.153.180.30:8000/play/a07k
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Че!.png" tvg-id="9393",Че!
-http://5.153.180.30:8001/play/a05h
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Че!.png" tvg-id="9393",Че!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Че!.png" tvg-id="9393",Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Че!.png" tvg-id="9393",Че!
@@ -2609,14 +2255,8 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?vers
 http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6InVnb29zYW02cGx1cyIsInAiOiJ1Z29vc2FtNnBsdXNhZTU3OGI4ZSIsImMiOiIyMDAiLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3NoYW5zb250di9pbmRleC5/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Шокирующее.png" tvg-id="9519",Шокирующее
 http://ost.fox-tv.fun/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nob2tpcnV5c2hlZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJ1Z29vc2FtNnBsdXMiLCJwIjoidWdvb3NhbTZwbHVzYWU1NzhiOGUiLCJjIjoiNjciLCJ0IjoiNTNhOTM3M2E1ODllOGJiZmEwMTdjODQxN2E3MGI1ZjIiLCJkIjoiNDIyMjEiLCJyIjoiMTQxNjI1In0eyJ1IjoiaHR0cDovL3N0cjEuZm94LXR2LmZ1bjo4MDgwL3Nob2tpcnV5c2hlZWhkL2l/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Шокирующее HD
-http://5.153.180.30:8001/play/a06h
 #EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId",Экспресс
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Ю.png" tvg-id="7995",Ю
-http://5.153.180.30:8001/play/a05i
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Ю.png" tvg-id="7995",Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Ю.png" tvg-id="7995",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.veranzo.ru/other/icons/Ю.png" tvg-id="7995",Ю
