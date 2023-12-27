@@ -485,8 +485,6 @@ http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Eleven Sports 6 HD
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://static.g-cdn.app/streams/eu-music-hd.png",EU MUSIC HD
-rtmp://93.189.60.202//925
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbG0JM9wmD7pjLP28OE.png",Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="Музыка",Eurodance 90
@@ -497,12 +495,8 @@ http://127.0.0.1:6878/ace/getstream?id=837edb9f5dab770965ddbd1b1f9f1ef55305d10d&
 http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9R24MREnk3GBgNLKQX.png",Eurosport 1 CEE
 http://streamer.enchart.one/42/dc0929249fccd9176874fb8f7edf6178caf3acff/172/stream.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png",Eurosport 1 HD
-https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLb37ZQjNld35WLBJ1w.png",Eurosport 1 HD
 http://51.195.5.44:8080/eurosport1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2052.png",Eurosport 1 HD
-https://nl01.spr24.net/264/mpegts?token=brm93nV8tUcCAN
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 1 HD.png",Eurosport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/Eurosport 2.png",Eurosport 2 HD
@@ -565,8 +559,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/Gulli Girl.png",Gulli Girl
 http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/History 2 HD.png",H2 HD
-rtmp://93.189.60.202//1052
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://veranzo.ru/other/icons/History 2 HD.png",H2 HD
 http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/HDL.png",HD Life
@@ -979,8 +971,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/play
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",sci fi
 http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://ip-tv.dev/images/ico/sea-tv.png",Sea TV HD
-http://pl.seetv.cc/play/8793/F2790C2E7884ABD/video.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Setanta Live 1
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Setanta Live 2
@@ -1019,8 +1009,6 @@ http://smwvgtnp.ottclub.xyz/iptv/R48WCW4MHQCS7N/7342/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4571.png",SKY SPORTS MAIN EVENT UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
-#EXTINF:-1 group-title="Детские",Smile TV
-https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/3360.png",SONG TV HD (АРМЕНИЯ)
@@ -1813,8 +1801,6 @@ http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&
 http://109.197.192.121:8080/mosfilm/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/Моторспорт ТВ.png",Моторспорт ТВ
 http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2529.png",Моторспорт ТВ HD
-https://cdn-lb.iptv2022.com/p/wW9QVjd8j0qtnParaRqqgQ,1688590821/streaming/motosport/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/675.png",Моя планета HD
 http://45.159.74.14:80/365Dney/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/Моя планета.png",Моя планета HD
@@ -1851,8 +1837,6 @@ http://127.0.0.1:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Музыка",Музыка 2 International
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/6269.png",МУЗЫКА КИНО HD
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/18081/index.m3u8
 #EXTINF:-1 group-title="Музыка",Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/6270.png",Музыка Кино International
@@ -2305,8 +2289,6 @@ http://188.113.190.15/164/tracks-v1a1/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png",Русский иллюзион
 http://188.113.190.15/44/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/53.png",Русский иллюзион
-https://tbs01-edge17.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/Русский иллюзион.png",Русский иллюзион
 http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман
@@ -2585,8 +2567,6 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВЦ (+7)
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2827.png",ТЕАТР
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/2431/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел Плюс ТВ HD (Астрахань)
 https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",Теледом ТВ HD
