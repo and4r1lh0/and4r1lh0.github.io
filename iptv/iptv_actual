@@ -597,10 +597,8 @@ http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png",KHL HD
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/KHL.png",KHL HD
-http://192.168.1.12:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️" tvg-logo="https://www.veranzo.ru/other/icons/KHL Prime.png",KHL Prime
-http://192.168.1.12:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+http://192.168.1.12:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
 #EXTINF:-1 group-title="Кино",Kino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3524
 #EXTINF:-1 group-title="Кино",Kino24
