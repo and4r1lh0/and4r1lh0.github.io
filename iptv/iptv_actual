@@ -927,8 +927,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000707.m3u8
 #EXTINF:-1 group-title="Иностранные",Code Fashion TV
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1 group-title="Кино",COMEDY CENTRAL
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/157/index.m3u8
 #EXTINF:-1 group-title="IPTV",COMEDY CENTRAL
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Музыка",Company TV
@@ -1384,8 +1382,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=872f30b863c3676239b5554d88f233c85
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Himlen TV7
 http://192.168.1.7:6878/ace/getstream?infohash=6663958525c078f44177b92e8d19f90f96d3afe1
 #EXTINF:-1 group-title="Познавательные",History HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/841/index.m3u8
-#EXTINF:-1 group-title="Познавательные",History HD
 https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 #EXTINF:-1 group-title="Познавательные",History HD
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
@@ -1729,8 +1725,6 @@ http://45.159.74.13:80/NationalGeographic/index.m3u8
 https://stream02.vnet.am/NationalGeographic/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/14001/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",National Geographic HD
 http://192.168.1.7:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",National Geographic HD
@@ -1787,14 +1781,8 @@ http://192.168.1.7:6878/ace/getstream?infohash=d201f62ab7281d23a98ad7f5ac114004e
 http://192.168.1.7:6878/ace/getstream?infohash=b8aa5f8149d17e855fd7553c83c0f0e74ea8f955
 #EXTINF:-1 group-title="Музыка",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Now 70's
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/19195/index.m3u8
 #EXTINF:-1 group-title="Музыка",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Now 80's
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/19196/index.m3u8
-#EXTINF:-1 group-title="Музыка",Now 90's
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/19197/index.m3u8
 #EXTINF:-1 group-title="Музыка",Now 90s HD UK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Now Rock
@@ -2145,8 +2133,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a044
 http://192.168.1.7:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Setanta Live 2
 http://192.168.1.7:6878/ace/getstream?infohash=fded295edff9d57adb77cf02a08c5f2fcb9e608b
-#EXTINF:-1 group-title="IPTV",SETANTA QAZAQSTAN HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/2399/index.m3u8
 #EXTINF:-1 group-title="IPTV",Setanta Qazaqstan HD KZ
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports
@@ -2513,24 +2499,8 @@ https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
 #EXTINF:-1 group-title="Музыка",Vevo Retro Rock
 https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
-#EXTINF:-1 group-title="Кино",VF NEW YEAR
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/15522/index.m3u8
 #EXTINF:-1 group-title="Познавательные",VF БАНЯ
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/18200/index.m3u8
-#EXTINF:-1 group-title="Кино",VF ГАРРИ ПОТТЕР
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/14230/index.m3u8
-#EXTINF:-1 group-title="Кино",VF КАРТОЧНЫЙ ДОМИК
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/14221/index.m3u8
-#EXTINF:-1 group-title="Детские",VF Мультфильмы СССР
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10086/index.m3u8
-#EXTINF:-1 group-title="Кино",VF С НОВЫМ ГОДОМ!
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/15524/index.m3u8
-#EXTINF:-1 group-title="Кино",VF СЧАСТЛИВЫ ВМЕСТЕ
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/9242/index.m3u8
-#EXTINF:-1 group-title="Кино",VF ТЕОРИЯ БОЛЬШОГО ВЗРЫВА
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/15009/index.m3u8
-#EXTINF:-1 group-title="Кино",VF ЁЛКИ
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/14222/index.m3u8
 #EXTINF:-1 group-title="Кино",VHS TV 3
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 group-title="IPTV",VHS-ka
@@ -2616,8 +2586,6 @@ http://83.234.207.29:8011/play/a005/index.m3u8
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Кино",viju+ Comedy
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/200/index.m3u8
-#EXTINF:-1 group-title="Кино",viju+ Comedy
 http://193.201.98.10:5000/c143
 #EXTINF:-1 group-title="Кино",viju+ Comedy
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?offset=1
@@ -2645,8 +2613,6 @@ http://192.168.1.7:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c
 http://192.168.1.7:6878/ace/getstream?infohash=9808c355077d9f9a8fd937732fe1141a7cbd54db
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Megahit
 http://192.168.1.7:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
-#EXTINF:-1 group-title="Познавательные",viju+ Planet
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/9027/index.m3u8
 #EXTINF:-1 group-title="Познавательные",viju+ Planet
 http://176.113.48.221:8986/98
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Planet
@@ -3037,8 +3003,6 @@ http://193.201.98.10:5000/c140
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV",Большой чемодан
 http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
-#EXTINF:-1 group-title="Познавательные",БОЛЬШОЙ ЭФИР HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/14012/index.m3u8
 #EXTINF:-1 group-title="Региональные",Брянская губерния
 http://31.148.6.9:10021/index.m3u8
 #EXTINF:-1 group-title="Региональные",Брянская Губерния HD
@@ -3084,8 +3048,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=a19550981bec21d08541bb9badaecbf8f
 http://192.168.1.7:6878/ace/getstream?infohash=79b458c8817c38334bfa52210f8f0bb1a63f9355
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Витрина ТВ
 http://192.168.1.7:6878/ace/getstream?infohash=87cbaecc6b80a18a918837f26f0c558745ff31cc
-#EXTINF:-1 group-title="Развлекательные",Вкусное TV HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/16013/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Вместе-РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Вместе-РФ
@@ -4141,8 +4103,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=1e023a9cdfe8f7bc6d97f5677968ee4ad
 http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="Региональные",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Криминальное HD
-http://pnctfayw.otttv.pw/iptv/PATY3EPWWGSK3Z/14033/index.m3u8
 #EXTINF:-1 group-title="Региональные",Крым 24
 http://92.53.64.197:5050/Krym_24/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Региональные",Крым 24
@@ -4873,8 +4833,6 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="IPTV",Наша Тема
 https://bkm.beetv.kz/btv/live/hls/000003785.m3u8
-#EXTINF:-1 group-title="Кино",Наше HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/915/index.m3u8
 #EXTINF:-1 group-title="IPTV",Наше детство
 http://193.201.98.10:5000/c163
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Наше крутое HD
@@ -5458,8 +5416,6 @@ https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
 http://192.168.1.7:6878/ace/getstream?infohash=87738680559278aa0bd62988a766b0728ebbbb75
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Перец
 http://192.168.1.7:6878/ace/getstream?infohash=172c4d429b5b45ab0c5272559fb31fbbc79ecfde
-#EXTINF:-1 group-title="Развлекательные",Перец International
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/15227/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Планета HD
 http://192.168.1.7:6878/ace/getstream?infohash=fbe3b3c4813c3b4203fe8ce02c3e44abff5e3129
 #EXTINF:-1 group-title="Кино",Победа
@@ -5585,8 +5541,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница! HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/5031/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятый канал
@@ -6141,8 +6095,6 @@ https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
 http://83.234.207.29:8008/play/a019/index.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/6389/index.m3u8
-#EXTINF:-1 group-title="Кино",Сапфир HD
 http://193.201.98.10:5000/c90
 #EXTINF:-1 group-title="Кино",Сапфир HD
 https://bkm.beetv.kz/btv/live/hls/000008135.m3u8
@@ -6576,8 +6528,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=163caed117fb62e939fba086f3cf4083b
 #EXTINF:-1 group-title="Развлекательные",ТВ-3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ-3 HD
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/5033/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ-3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ТВ-3 HD
 http://192.168.1.7:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
@@ -6605,8 +6555,6 @@ http://84.38.180.145:8080/tvoetv/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твое ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Твтур TV
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/16008/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВЦ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВЦ
