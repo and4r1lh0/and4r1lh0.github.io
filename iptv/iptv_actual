@@ -2273,7 +2273,7 @@ http://192.168.1.7:6878/ace/getstream?infohash=46c4cb6e36d560a140241d0dccc05cbb5
 http://193.201.98.10:5000/c95
 #EXTINF:-1 group-title="Познавательные",viju Explore
 http://83.234.207.29:8011/play/a006/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju Explore
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju Explore
 http://192.168.1.7:6878/ace/getstream?infohash=361e2b2f24d617ed599dc354180c80cd1705f5c0
 #EXTINF:-1 group-title="Познавательные",viju History
 http://83.234.207.29:8011/play/a007/index.m3u8
@@ -2283,7 +2283,7 @@ http://176.113.48.221:8986/40
 http://193.201.98.10:5000/c97
 #EXTINF:-1 group-title="Познавательные",viju Nature
 http://83.234.207.29:8011/play/a008/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju Nature
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju Nature
 http://192.168.1.7:6878/ace/getstream?infohash=724f24ba3e7faf98394f75de217d1e404700f41b
 #EXTINF:-1 group-title="Кино",viju TV1000
 http://91.205.199.3:80/tv1000/index.m3u8
@@ -2319,9 +2319,9 @@ http://193.201.98.10:5000/c143
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="Кино",viju+ Comedy
 http://83.234.207.29:8013/play/a00h/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Comedy
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Comedy
 http://192.168.1.7:6878/ace/getstream?infohash=8e27f09c9c4eb4ea09a1d2bc1c71689a52be5129
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Comedy
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Comedy
 http://192.168.1.7:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
 #EXTINF:-1 group-title="Кино",viju+ Megahit
 http://193.201.98.10:5000/c144
@@ -2329,19 +2329,19 @@ http://193.201.98.10:5000/c144
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="Кино",viju+ Megahit
 http://83.234.207.29:8013/play/a00g/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Megahit
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Megahit
 http://192.168.1.7:6878/ace/getstream?infohash=2946debcde707ac6dff8c35f56a02ebefc5e094d
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Megahit
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Megahit
 http://192.168.1.7:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Megahit
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Megahit
 http://192.168.1.7:6878/ace/getstream?infohash=9808c355077d9f9a8fd937732fe1141a7cbd54db
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Megahit
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Megahit
 http://192.168.1.7:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
 #EXTINF:-1 group-title="Познавательные",viju+ Planet
 http://176.113.48.221:8986/98
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Planet
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Planet
 http://192.168.1.7:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Planet
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Planet
 http://192.168.1.7:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b
 #EXTINF:-1 group-title="Кино",viju+ Premiere
 http://193.201.98.10:5000/c145
@@ -2355,9 +2355,9 @@ http://176.113.48.221:8986/68
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="Кино",viju+ Serial
 http://83.234.207.29:8013/play/a00c/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Serial
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Serial
 http://192.168.1.7:6878/ace/getstream?infohash=0f12577008461ddbdef03d974a23e7f2236ff2de
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Serial
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Serial
 http://192.168.1.7:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
@@ -2365,7 +2365,7 @@ http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 http://193.201.98.10:5000/c113
 #EXTINF:-1 group-title="Спорт",viju+ Sport
 http://83.234.207.29:8011/play/a009/index.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju+ Sport
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",viju+ Sport
 http://192.168.1.7:6878/ace/getstream?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",VIVA HD
 http://192.168.1.7:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
