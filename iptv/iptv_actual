@@ -2279,8 +2279,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=361e2b2f24d617ed599dc354180c80cd1
 http://83.234.207.29:8011/play/a007/index.m3u8
 #EXTINF:-1 group-title="Познавательные",viju History
 http://176.113.48.221:8986/40
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Viju History
-http://192.168.1.7:6878/ace/getstream?infohash=0f88c98c5e4f31e9918e16d469a495cc15dcfe50
 #EXTINF:-1 group-title="Познавательные",viju Nature
 http://193.201.98.10:5000/c97
 #EXTINF:-1 group-title="Познавательные",viju Nature
@@ -2397,6 +2395,8 @@ http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?offset=1
 http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",vuju History
 http://45.15.43.12:80/viasathistory/video.m3u8?token=test
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",vuju History
+http://192.168.1.7:6878/ace/getstream?infohash=0f88c98c5e4f31e9918e16d469a495cc15dcfe50
 #EXTINF:-1 group-title="Познавательные",vuju Nature
 http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="Познавательные",vuju Nature
