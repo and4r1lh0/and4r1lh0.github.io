@@ -109,8 +109,6 @@ https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
 #EXTINF:-1 group-title="Развлекательные",360° HD
 https://strm.yandex.ru/tv/2gylzdOHUzbS4wdnQwNjMvdnQwNjMvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Информационные",360° Новости HD
-https://strm.yandex.ru/tv/dedlzdOHUzbS4wc3dlbjA2My9zd2VuMDYzL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Познавательные",365 дней
 http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 group-title="Познавательные",365 дней
@@ -153,8 +151,6 @@ http://146.158.0.56:80/7TV/index.m3u8
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",8 канал
 http://192.168.1.7:6878/ace/getstream?infohash=4dce49d06957a3fd867c8b4e0ef79ed9b5e6c3e5
-#EXTINF:-1 group-title="Региональные",8 канал
-https://beeline.tv/PTBYTzNBek55SXpOakpUTmxoall6QWpNNVVtTXljRFptRm1OM1VUWTVjall4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWd6TXl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",8 канал (Владивосток)
 http://192.168.1.7:6878/ace/getstream?infohash=31987c3785346d817b35920073c691256c9cd41c
 #EXTINF:-1 group-title="Региональные",8 канал (Владивосток)
@@ -310,8 +306,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=3d5ae0718e79badd001e2909076419598
 http://192.168.1.7:6878/ace/getstream?infohash=adb594eb1f72955bcfa9692cc3647632f2b1005b
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",AUTO_MOTO
 http://192.168.1.7:6878/ace/getstream?infohash=c37acb042cdeae3440309457dc97a47237b13d32
-#EXTINF:-1 group-title="Детские",Baby Time
-https://strm.yandex.ru/tv/fhglzdOHUzbS4wZW1pdF95YmFiL2VtaXRfeWJhYi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Детские",Baby Time
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 group-title="IPTV",Baby Time
@@ -557,8 +551,6 @@ http://192.168.1.7:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f
 http://192.168.1.7:6878/ace/getstream?infohash=a64f487b491e1c0ad0be1af30383aba16411b8b6
 #EXTINF:-1 group-title="Кино",Bollywood HD
 https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
-#EXTINF:-1 group-title="Кино",Bollywood HD
-https://strm.yandex.ru/tv/45glzdOHUzbS4wc3VyYWxlYl9kb293eWxsb2Ivc3VyYWxlYl9kb293eWxsb2IvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="IPTV",Bolt
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
@@ -570,26 +562,16 @@ http://192.168.1.7:6878/ace/getstream?infohash=3f6a6aa05bd8e07a98e49fd7b00c9691a
 http://192.168.1.7:6878/ace/getstream?infohash=e2f5ad1d00db9841ec6dfc30da8c0ce03dbf39f1
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Brics TV HD
 http://192.168.1.7:6878/ace/getstream?infohash=74bdcf62f36d5bbbb3597b49e3bb9aed4f060988
-#EXTINF:-1 group-title="Музыка",BRIDGE
-https://strm.yandex.ru/tv/kiolzdOHUzbS4wdnRlZ2RpcmIvdnRlZ2RpcmIvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Музыка",Bridge Classic
-https://strm.yandex.ru/tv/ghhlzdOHUzbS4wY2lzc2FsY3Z0ZWdkaXJiL2Npc3NhbGN2dGVnZGlyYi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Музыка",Bridge Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge Classic
 http://92.53.64.197:5050/bridge_tv_classic/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Музыка",BRIDGE Deluxe HD
-https://strm.yandex.ru/tv/jhglzdOHUzbS4wZXh1bGVkdnRlZ2RpcmIvZXh1bGVkdnRlZ2RpcmIvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Bridge HD
 http://192.168.1.7:6878/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Bridge HD
 http://192.168.1.7:6878/ace/getstream?infohash=56f73fefee3e8cfdc742d1de9c892f0a3ec79413
-#EXTINF:-1 group-title="Музыка",BRIDGE HITS HD
-https://strm.yandex.ru/tv/kjblzdOHUzbS4wc3RpaHZ0ZWdkaXJiL3N0aWh2dGVnZGlyYi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Музыка",BRIDGE ROCK HD
 https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE ROCK HD
-https://strm.yandex.ru/tv/uhvlzdOHUzbS4waHNlcmZfdnRfZWdkaXJiL2hzZXJmX3Z0X2VnZGlyYi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Bridge TV
 http://192.168.1.7:6878/ace/getstream?id=e4cd583c183e449d129727c969355e7e9b7d3792&.mp4
 #EXTINF:-1 group-title="Музыка",Bridge TV
@@ -624,10 +606,6 @@ http://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE Русский Хит HD
-https://strm.yandex.ru/tv/hjklzdOHUzbS4wdGloeWlrc3N1cl92dGVnZGlyYi90aWh5aWtzc3VyX3Z0ZWdkaXJiL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
-#EXTINF:-1 group-title="Музыка",BRIDGE Шлягер
-https://strm.yandex.ru/tv/jhklzdOHUzbS4wcmVnYXlsaHNfdnRlZ2RpcmIvcmVnYXlsaHNfdnRlZ2RpcmIvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",BRT
 http://192.168.1.7:6878/ace/getstream?infohash=d428f1e07acce1f17c9eaae414726429c8121c4f
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",BT Sport / ESPN [UK]
@@ -912,8 +890,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://192.168.1.7:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd&.mp4
 #EXTINF:-1 group-title="IPTV",Duck TV
 https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
-#EXTINF:-1 group-title="Детские",Duck TV HD
-https://strm.yandex.ru/tv/FtglzdOHUzbS4wc3VyYWxlYl92dGtjdWQvc3VyYWxlYl92dGtjdWQvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Иностранные",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",E TV HD
@@ -934,12 +910,8 @@ http://192.168.1.7:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808
 http://192.168.1.7:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
 #EXTINF:-1 group-title="IPTV",English Class HD
 http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные",English Class HD
-https://strm.yandex.ru/tv/2khlzdOHUzbS4wc3VyYWxlYl9zc2FsY19oc2lsZ25lL3N1cmFsZWJfc3NhbGNfaHNpbGduZS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="IPTV",EPIC HD
 http://strm.yandex.ru/kal/epic/epic0.m3u8
-#EXTINF:-1 group-title="Познавательные",Epic HD
-https://strm.yandex.ru/tv/TrelzdOHUzbS4wY2lwZS9jaXBlL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ETB 1
 http://192.168.1.7:6878/ace/getstream?infohash=cb40efa88790c7f02aa320649487f69acd00c609
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ETB 2
@@ -960,8 +932,6 @@ http://192.168.1.7:6878/ace/getstream?id=755483260c00e095f825286bc8b356296681402
 http://192.168.1.7:6878/ace/getstream?infohash=9d34fd020c6764da7fb27440d1db6e60be0dd62c
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Europa Plus TV
 http://192.168.1.7:6878/ace/getstream?infohash=0349677b468cd305ccc2d502446a60e9f0ff3ec3
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
-https://strm.yandex.ru/tv/rfulzdOHUzbS4wdnRfc3VscF9hcG9ydWUvdnRfc3VscF9hcG9ydWUvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="IPTV",Europa Plus TV
 https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Eurosport 1 HD
@@ -1157,8 +1127,6 @@ http://192.168.1.7:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce50
 http://192.168.1.7:6878/ace/getstream?infohash=2410ae82a0227b51843b4cf47260c14aa8b4503e
 #EXTINF:-1 group-title="Кино",Hollywood HD
 https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1 group-title="Кино",Hollywood HD
-https://strm.yandex.ru/tv/dr8lzdOHUzbS4wc3VyYWxlYl9kb293eWxsb2gvc3VyYWxlYl9kb293eWxsb2gvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Спорт",Horizon Sports HD
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF:-1 group-title="IPTV",Horse and Country Free
@@ -1219,8 +1187,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=2d82e6aabb98c72c8bef0669255e2ac5d
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",K-TV
 http://192.168.1.7:6878/ace/getstream?infohash=b67999f03523360b8a5d097e41e02b6abd86b29f
-#EXTINF:-1 group-title="Спорт",KHL
-https://strm.yandex.ru/tv/RrrlzdOHUzbS4wc3VyYWxlYl9saGsvc3VyYWxlYl9saGsvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Спорт",KHL
 https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",KHL Prime HD
@@ -1341,10 +1307,6 @@ http://192.168.1.7:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77b
 http://192.168.1.7:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",MTV Live HD
 http://192.168.1.7:6878/ace/getstream?infohash=9ddda51034375eb93505c076d4437064abdf2dcf
-#EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD
-https://strm.yandex.ru/tv/67hlzdOHUzbS4wZGxvZ3hvYmNpc3VtL2Rsb2d4b2JjaXN1bS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIAN HD
-https://strm.yandex.ru/tv/90jlzdOHUzbS4weG9ibXIveG9ibXIvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Музыка",Music Reload TV HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка",Music TV 1
@@ -1497,8 +1459,6 @@ http://188.113.190.15/52/playlist.m3u8
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Ocean TV
 https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательные",Ocean-TV
-https://strm.yandex.ru/tv/L87lzdOHUzbS4wc3VyYWxlYl92dF9uYWVjby9zdXJhbGViX3Z0X25hZWNvL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Ocko
 http://192.168.1.7:6878/ace/getstream?infohash=5fda76db8973a8ee70ae3b9a67e0ecdeba6a7c30
 #EXTINF:-1 group-title="Музыка",Ocko
@@ -1696,8 +1656,6 @@ http://92.53.64.197:5050/rtg/video.m3u8?token=m3VIth-Rou_bM1
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG HD
 http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Познавательные",RTG HD
-https://strm.yandex.ru/tv/ki8lzdOHUzbS4wZ3RyL2d0ci9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",RTL UHD
 http://192.168.1.7:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
 #EXTINF:-1 group-title="Музыка",RTV Altea HD
@@ -1719,8 +1677,6 @@ http://91.205.199.3:80/rutv/index.m3u8
 http://edge02.odtv.az/o7/rutv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 http://94.230.128.105:8080/RU.TV/index.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV HD
-https://strm.yandex.ru/tv/987lzdOHUzbS4wdmNfdnR1ci92Y192dHVyL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Russian Extreme
 http://192.168.1.7:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
 #EXTINF:-1 group-title="Кино",Russian Extreme
@@ -1897,8 +1853,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=fb4fb8816c48d2906f371981e99c2bca2
 http://192.168.1.7:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",TiJi
 http://192.168.1.7:6878/ace/getstream?infohash=8adf3a3dc4379137b05d1fa340c5cc84283d7e72
-#EXTINF:-1 group-title="Детские",TiJi
-https://strm.yandex.ru/tv/jk8lzdOHUzbS4wc3VyYWxlYl9paml0L3N1cmFsZWJfaWppdC9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Детские",TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="IPTV",Timeless Dizi Channel
@@ -2210,8 +2164,6 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8?|User-ag
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",АРМЕНИЯ ТВ5 [AM]
 http://192.168.1.7:6878/ace/getstream?infohash=12c2e9e333fb15c5a52d3ffdf4bcd03849aa21bc
 #EXTINF:-1 group-title="Познавательные",Арсенал
-https://strm.yandex.ru/tv/ww4lzdOHUzbS4wc3VyYWxlYl9sYW5lc3JhL3N1cmFsZWJfbGFuZXNyYS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Познавательные",Арсенал
 https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Арсенал HD
 http://192.168.1.7:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
@@ -2319,8 +2271,6 @@ https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w14
 https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Беларусь 3 HD
 http://192.168.1.7:6878/ace/getstream?infohash=0bd1e443224481b01d5be5f8856e09601818e221
-#EXTINF:-1 group-title="Спорт",Беларусь 5
-https://strm.yandex.ru/tv/Tt3lzdOHUzbS4wNV9zdXJhbGViLzVfc3VyYWxlYi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Иностранные",Беларусь 5
 https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 group-title="Иностранные",Беларусь 5
@@ -2358,8 +2308,6 @@ http://192.168.1.7:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Бокс ТВ
 http://192.168.1.7:6878/ace/getstream?infohash=4fe43d0daca047040d2e758f82302bed3bbf854a
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
-https://strm.yandex.ru/tv/vc6lzdOHUzbS4wc3VyYWxlYl9zdWxwX3Z0X3Nrb2Ivc3VyYWxlYl9zdWxwX3Z0X3Nrb2IvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Спорт",Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -2379,8 +2327,6 @@ http://192.168.1.7:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a
 http://192.168.1.7:6878/ace/getstream?infohash=d78c7a1da99696e3987563926a1cd31bff9c56bf
 #EXTINF:-1 group-title="Детские",В гостях у сказки HD
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:-1 group-title="Детские",В гостях у сказки HD
-https://strm.yandex.ru/tv/doPlzdOHUzbS4waWt6YWtzX3VfaGF5dHNvZ192L2lremFrc191X2hheXRzb2dfdi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",В мире животных
 http://192.168.1.7:6878/ace/getstream?infohash=db78bbaaa4dbb877cfa87070db8179cd0c78b515
 #EXTINF:-1 group-title="IPTV",В мире животных
@@ -2540,8 +2486,6 @@ https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 http://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Диалоги о рыбалке HD
 http://192.168.1.7:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
-#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке HD
-https://strm.yandex.ru/tv/ngrlzdOHUzbS4waWdvbGFpZC9pZ29sYWlkL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Дикая охота
 http://192.168.1.7:6878/ace/getstream?infohash=9b86bc89762292d3cde4ddcced29d5238f6bf9af
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Дикая охота HD
@@ -2628,8 +2572,6 @@ http://192.168.1.7:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057
 https://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 group-title="Развлекательные",Домашний HD
 http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",Домашний HD
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMASHNIYHD_OTT/manifest.mpd?token=r4NDEyYzcwMzk1ZDEyMTY0NDA4YjJjNzhhZTRkZDQwMDE=
 #EXTINF:-1 group-title="Развлекательные",Домашний Int.
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",Дон 24 HD
@@ -2713,8 +2655,6 @@ https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
 http://192.168.1.7:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Загородная жизнь
 http://192.168.1.7:6878/ace/getstream?infohash=c798cfb60ad3202bf02dc9eeda42b6a977c96d63
-#EXTINF:-1 group-title="Познавательные",Загородная жизнь
-https://strm.yandex.ru/tv/ss6lzdOHUzbS4wc3VyYWxlYl9uemloel9haWFuZG9yb2dhei9zdXJhbGViX256aWh6X2FpYW5kb3JvZ2F6L2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Познавательные",Загородная жизнь
 http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородная жизнь
@@ -3028,8 +2968,6 @@ https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Кинокомедия
 http://192.168.1.7:6878/ace/getstream?infohash=5254ec612b0bded26299560b4e51bd491bf9796f
 #EXTINF:-1 group-title="Кино",Кинокомедия
-https://strm.yandex.ru/tv/kd7lzdOHUzbS4wc3VyYWxlYl9haWRlbW9rb25pay9zdXJhbGViX2FpZGVtb2tvbmlrL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
-#EXTINF:-1 group-title="Кино",Кинокомедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
@@ -3042,8 +2980,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=d8251f051ac279434b6007373a1bbc5f0
 #EXTINF:-1 group-title="Кино",Кинокомедия HD
 http://188.113.190.15/334/video.m3u8
 #EXTINF:-1 group-title="Кино",Киноман
-https://strm.yandex.ru/tv/aFFlzdOHUzbS4wc3VyYWxlYl9uYW1vbmlrL3N1cmFsZWJfbmFtb25pay9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Кино",Киноман
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киноман
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
@@ -3053,8 +2989,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=09a813942c381404a31d914a52960c4aa
 http://192.168.1.7:6878/ace/getstream?infohash=76e7d2ce019d130430ac10c0a973ce2d0a0d381d
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Киномикс
 http://192.168.1.7:6878/ace/getstream?infohash=9650f12d9a13248dc7ee4919eb208b0eff3c563a
-#EXTINF:-1 group-title="Кино",КИНОМИКС
-https://strm.yandex.ru/tv/kgflzdOHUzbS4wc3VyYWxlYl9za2ltb25pay9zdXJhbGViX3NraW1vbmlrL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Кино",Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Киномикс HD
@@ -3088,8 +3022,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=c1dee6517b501723725b0ba578e2134ba
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",КИНОСВИДАНИЕ
 http://192.168.1.7:6878/ace/getstream?infohash=ce1735b634b02267a74367a51f0ef8ef66630ef7
 #EXTINF:-1 group-title="Кино",Киносвидание
-https://strm.yandex.ru/tv/gf6lzdOHUzbS4wc3VyYWxlYl9kc19laW5hZGl2c29uaWsvc3VyYWxlYl9kc19laW5hZGl2c29uaWsvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Кино",Киносвидание
 https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",КИНОСВИДАНИЕ HD
 http://192.168.1.7:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
@@ -3102,8 +3034,6 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:6d:a0:d8&stream=726971&ext
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Киносемья
 http://192.168.1.7:6878/ace/getstream?infohash=605dc598e02b8ba1ef8c07572661a421cefe33ba
 #EXTINF:-1 group-title="Кино",Киносемья
-https://strm.yandex.ru/tv/J9ilzdOHUzbS4wc3VyYWxlYl9heW1lc29uaWsvc3VyYWxlYl9heW1lc29uaWsvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Кино",Киносемья
 https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Киносемья HD
 http://192.168.1.7:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
@@ -3111,8 +3041,6 @@ http://192.168.1.7:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e095
 http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",КИНОСЕРИЯ
 http://192.168.1.7:6878/ace/getstream?infohash=80e761abc1c2793ee2ceb87485db40b99bb13407
-#EXTINF:-1 group-title="Кино",Киносерия
-https://strm.yandex.ru/tv/GGhlzdOHUzbS4wc3VyYWxlYl9haXJlc29uaWsvc3VyYWxlYl9haXJlc29uaWsvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Кино",Киносерия
 https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",КИНОСЕРИЯ HD
@@ -3127,8 +3055,6 @@ http://192.168.1.7:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:6d:a0:d8&stream=726842&extension=ts&play_token=pLvqBxNTnE
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Кинохит
 http://192.168.1.7:6878/ace/getstream?infohash=373b097439b972056ddd336f74949e5d012a4634
-#EXTINF:-1 group-title="Кино",Кинохит
-https://strm.yandex.ru/tv/gydlzdOHUzbS4wc3VyYWxlYl90aWhvbmlrL3N1cmFsZWJfdGlob25pay9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Кино",Кинохит
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит HD
@@ -3203,8 +3129,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=4482a14060130b326b370669c3fd0f984
 http://192.168.1.7:6878/ace/getstream?infohash=3849b612f63d7c3f3da07fd03971d8744489fce7
 #EXTINF:-1 group-title="IPTV",Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные",Кухня
-https://strm.yandex.ru/tv/FFglzdOHUzbS4wc3VyYWxlYl92dF9haW5oa3VrL3N1cmFsZWJfdnRfYWluaGt1ay9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Кухня ТВ
 http://192.168.1.7:6878/ace/getstream?infohash=47c727a649958399a0b18aa3e92350f42a58d247
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
@@ -3313,8 +3237,6 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Планета
-https://strm.yandex.ru/tv/shylzdOHUzbS4wc3VyYWxlYl9hdGVuYWxwX2hjdGFtL3N1cmFsZWJfYXRlbmFscF9oY3RhbS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Спорт",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://188.113.190.15/103/video.m3u8
@@ -3333,11 +3255,9 @@ http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир
 http://192.168.1.7:6878/ace/getstream?infohash=33546fd9b0a9ce41333bcd6d6f62fa7a3e7cc763
 #EXTINF:-1 group-title="Федеральные",Мир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир
-https://strm.yandex.ru/tv/sFylzdOHUzbS4wc3VyYWxlYl9yaW0vc3VyYWxlYl9yaW0vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Федеральные",Мир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир
@@ -3353,7 +3273,7 @@ http://192.168.1.7:6878/ace/getstream?infohash=11c86aee81b8d99e7004f1fad740e84a4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир (+2)
 http://192.168.1.7:6878/ace/getstream?infohash=98bcc6e24b63a75c60b5698481ce4b76668279b6
 #EXTINF:-1 group-title="Федеральные",Мир (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир (+2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир (+4)
@@ -3361,17 +3281,17 @@ http://192.168.1.7:6878/ace/getstream?infohash=77f77cc7c32f940ffccbf140bfef122ae
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир (+4)
 http://192.168.1.7:6878/ace/getstream?infohash=5b65f034915752b6347f7ec3025c192b8accd5e2
 #EXTINF:-1 group-title="Федеральные",Мир (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир (+7)
 http://192.168.1.7:6878/ace/getstream?infohash=ba501ea372087b70c852e303edd363d019cfc408
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир (+7)
 http://192.168.1.7:6878/ace/getstream?infohash=db589ea2498acd079305bcec837b1f1a7e077ee6
 #EXTINF:-1 group-title="Федеральные",Мир (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Мир (+7)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир 24
@@ -3388,8 +3308,6 @@ http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Мир 24 HD
-https://strm.yandex.ru/tv/vv6lzdOHUzbS4wNDJyaW0vNDJyaW0vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир HD
 http://192.168.1.7:6878/ace/getstream?infohash=eff480eb00a232202f1773bcdb3d79511d16ddc5
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир HD
@@ -3400,8 +3318,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир HD
-https://s25617.cdn.ngenix.net/mdrm/CH_MIRHD/manifest.mpd?token=1fNjVmOGU5OTMxNjUxNWNkYmIxZDMwYjBhMmFiZDEwZjY=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир Баскетбола
 http://192.168.1.7:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мир Баскетбола
@@ -3443,8 +3359,6 @@ https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
 http://192.168.1.7:6878/ace/getstream?infohash=1402397a5ce80abb27641574baf1dc5a8994d6da
 #EXTINF:-1 group-title="Информационные",Москва 24
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:-1 group-title="Информационные",Москва 24
-https://strm.yandex.ru/tv/ghhlzdOHUzbS4wbl80MmtzbS9uXzQya3NtL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Региональные",Москва 24
 http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
 #EXTINF:-1 group-title="Региональные",Москва 24
@@ -3496,8 +3410,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=bde028f525311e277f92bca74ca2b0ca8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мужское кино
 http://192.168.1.7:6878/ace/getstream?infohash=7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e
 #EXTINF:-1 group-title="Кино",Мужское кино
-https://strm.yandex.ru/tv/ghtlzdOHUzbS4wc3VyYWxlYl9vbmlrX2Vva3NoenVtL3N1cmFsZWJfb25pa19lb2tzaHp1bS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Кино",Мужское кино
 https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:6d:a0:d8&stream=727019&extension=ts&play_token=St7Hvw3AQ6
@@ -3507,8 +3419,6 @@ http://192.168.1.7:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285a
 http://192.168.1.7:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мужской
 http://192.168.1.7:6878/ace/getstream?infohash=7299f1e25e42a5f99c79416d18eb9cd44da34688
-#EXTINF:-1 group-title="Познавательные",Мужской
-https://strm.yandex.ru/tv/HUUlzdOHUzbS4wc3VyYWxlYl9pb2tzaHp1bS9zdXJhbGViX2lva3NoenVtL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="IPTV",Мужской
 https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",МУЗ
@@ -3582,8 +3492,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=68d54cf663a03edd31cbb6f45b5c5b233
 http://192.168.1.7:6878/ace/getstream?infohash=5909b269bdd324ad01b45518a5977b332423a124
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Музыка Первого
 http://192.168.1.7:6878/ace/getstream?infohash=a1673401b01e3c9626837bb1163e3e6baa4c1c33
-#EXTINF:-1 group-title="Детские",МУЛЬТ
-https://strm.yandex.ru/tv/S44lzdOHUzbS4wc3VyYWxlYl90bHVtL3N1cmFsZWJfdGx1bS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="Детские",Мульт
 http://92.53.64.197:5050/mult/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Детские",Мульт
@@ -3606,8 +3514,6 @@ http://192.168.1.7:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87f
 http://192.168.1.7:6878/ace/getstream?infohash=b229a0b136490e63cd361c1dcd0f55d45281a87a
 #EXTINF:-1 group-title="Детские",Мультиландия
 https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
-#EXTINF:-1 group-title="Детские",Мультиландия HD
-https://strm.yandex.ru/tv/899lzdOHUzbS4wYWlkbmFsaXRsdW0vYWlkbmFsaXRsdW0vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мультимузыка
 http://192.168.1.7:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Мультимузыка
@@ -3616,8 +3522,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=78250d0bb48bb99877ef2708f5c98ffa5
 http://109.239.208.82:80/multmusic/index.m3u8
 #EXTINF:-1 group-title="Региональные",Муравленко 24
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Мы HD
-https://strm.yandex.ru/tv/56TlzdOHUzbS4weW0veW0vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Региональные",Мы и город
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
 #EXTINF:-1 group-title="Региональные",МЭТР
@@ -3690,8 +3594,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=2fcdf632729bef234bfe1048532be31fe
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Наше новое кино
 http://192.168.1.7:6878/ace/getstream?infohash=5e41e16355cfe58b6aa24820ce4110b3e1fd7f05
 #EXTINF:-1 group-title="Кино",Наше новое кино
-https://strm.yandex.ru/tv/Ki7lzdOHUzbS4wc3VyYWxlYl9vbmlrX2Vvdm9uX2Voc2FuL3N1cmFsZWJfb25pa19lb3Zvbl9laHNhbi9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
-#EXTINF:-1 group-title="Кино",Наше новое кино
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Наше новое кино HD
 http://192.168.1.7:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
@@ -3713,8 +3615,6 @@ https://vod.tv7.fi/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w802965519_b94600
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
-https://strm.yandex.ru/tv/51rlzdOHUzbS4wYWlzc29yX2FpYW50c2V2emllbi9haXNzb3JfYWlhbnRzZXZ6aWVuL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Нижний Новгород 24
 http://192.168.1.7:6878/ace/getstream?infohash=39e94a70b9ea9e1396056175112c0a804a85fe78
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Ника ТВ
@@ -3779,15 +3679,13 @@ http://192.168.1.7:6878/ace/getstream?infohash=6867947cdd6eca74ef1cba840d7d3e1a3
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ
 http://192.168.1.7:6878/ace/getstream?infohash=f9a41f2e38dd805fd19319d926819827378d0b8b
 #EXTINF:-1 group-title="Федеральные",НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ
-https://strm.yandex.ru/tv/Ko9lzdOHUzbS4wc3VyYWxlYl92dG4vc3VyYWxlYl92dG4vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ
 http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Федеральные",НТВ
@@ -3799,31 +3697,31 @@ http://192.168.1.7:6878/ace/getstream?infohash=3b736a2b1583f8309806995f6f068cf44
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (+1)
 http://192.168.1.7:6878/ace/getstream?infohash=6f999543e3cd2d0e3348ff13caf265cdde088f3f
 #EXTINF:-1 group-title="Федеральные",НТВ (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (+2)
 http://192.168.1.7:6878/ace/getstream?infohash=c317d49982f4d9137b314dd67bb0062dec8f4b68
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (+2)
 http://192.168.1.7:6878/ace/getstream?infohash=68a2d24ded60f588e0c4286cadc9055bd4a98cd4
 #EXTINF:-1 group-title="Федеральные",НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ (+2)
-http://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
+http://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ (+2)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (+4)
 http://192.168.1.7:6878/ace/getstream?infohash=6d8473c2c405ce740caabd878e15ce9a3363f765
 #EXTINF:-1 group-title="Федеральные",НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ (+4)
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (+7)
 http://192.168.1.7:6878/ace/getstream?infohash=03e6f1d3ebb8dbee73b5791d381a040768fb85f3
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
-http://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8
+http://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ (Молдова)
 http://192.168.1.7:6878/ace/getstream?infohash=00e0fb2bd9e58a8a38a5287b44cfa48dc77a53a4
 #EXTINF:-1 group-title="Федеральные",НТВ +1
@@ -3846,8 +3744,6 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Федеральные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_NTV_HD/manifest.mpd?token=2hMzg1NTNiMzI4OTNiNmFjZGU2YzgzZDAzNzk5MGJiMTA=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ Беларусь
 http://192.168.1.7:6878/ace/getstream?infohash=a090245041474c6c099656e3a3b30c9182fc3853
 #EXTINF:-1 group-title="Кино",НТВ Беларусь
@@ -3878,8 +3774,6 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://92.53.64.197:5050/ntv_serial_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Сериал HD
-https://strm.yandex.ru/tv/2etlzdOHUzbS4wd2VuX2xhaXJlc192dG4vd2VuX2xhaXJlc192dG4vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ Стиль
 http://192.168.1.7:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ Стиль
@@ -3890,8 +3784,6 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Стиль
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
-#EXTINF:-1 group-title="Познавательные",НТВ Стиль HD
-https://strm.yandex.ru/tv/y78lzdOHUzbS4wbGl0c192dG4vbGl0c192dG4vbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ ХИТ
 http://192.168.1.7:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТВ ХИТ
@@ -3902,8 +3794,6 @@ https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Хит HD
-https://strm.yandex.ru/tv/y55lzdOHUzbS4wdGloX3Z0bi90aWhfdnRuL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",НТК
 http://192.168.1.7:6878/ace/getstream?infohash=18f8dd04fd8466d598cb7d1f6f214c622aca1046
 #EXTINF:-1 group-title="Региональные",НТК (Ингушетия)
@@ -4019,7 +3909,7 @@ http://192.168.1.7:6878/ace/getstream?infohash=0d6421e7f796d54239815d951eabe5664
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ОТР
 http://192.168.1.7:6878/ace/getstream?infohash=551a0b1d50fc4679cb6a1456c44c432d1475097a
 #EXTINF:-1 group-title="Федеральные",ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ОТР
@@ -4036,8 +3926,6 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR_NSO/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",ОТР (+5)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_OTR/variant.m3u8
-#EXTINF:-1 group-title="Федеральные",ОТР HD
-https://s25617.cdn.ngenix.net/mdrm/CH_OTRHD/manifest.mpd?token=85Y2E3NTU2ZjNiNmEyZjFlMDhmYjgwMzVmMDQ4NDM3MzE
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ОТС
 http://192.168.1.7:6878/ace/getstream?infohash=9eb0bf20021dc29309413a1a2efe5665232c32ff
 #EXTINF:-1 group-title="Региональные",ОТС HD
@@ -4067,9 +3955,9 @@ http://192.168.1.7:6878/ace/getstream?infohash=7cfb8660cdd8b73809ce3f3e7cdbadae7
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал
 http://192.168.1.7:6878/ace/getstream?infohash=1cd49e97c4889b35a169ff36ea0d048746abc247
 #EXTINF:-1 group-title="Федеральные",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Федеральные",Первый канал
@@ -4079,27 +3967,27 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал (+1)
 http://192.168.1.7:6878/ace/getstream?infohash=666d32f0a0336a8a231ebe259fad6ebe73c13856
 #EXTINF:-1 group-title="Федеральные",Первый канал (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал (+2)
 http://192.168.1.7:6878/ace/getstream?infohash=402aeb46eeec45ec32721ebcc6c46d091f0164d0
 #EXTINF:-1 group-title="Федеральные",Первый канал (+2)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал (+3)
 http://192.168.1.7:6878/ace/getstream?infohash=b0b45034375d131ee6d1b7371ce32031837ed320
 #EXTINF:-1 group-title="Федеральные",Первый канал (+3)
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал (+4)
 http://192.168.1.7:6878/ace/getstream?infohash=5e32dd6a6e5aa035d39c4d0f204b11e2086b2ca9
 #EXTINF:-1 group-title="Федеральные",Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал (+7)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал (+8)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал FHD
 http://192.168.1.7:6878/ace/getstream?infohash=9fabb4c74794d16c70069731ac24e60ff7173a40
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал HD
@@ -4114,8 +4002,6 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-https://s25617.cdn.ngenix.net/mdrm/CH_1TVHD_OTT/manifest.mpd?token=5hMzE4NTRkOTI2MmYyNTBmYzBjMjY1YjU4NTgwNTJkM2Y=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал Евразия
 http://192.168.1.7:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
 #EXTINF:-1 group-title="Познавательные",Первый космический
@@ -4242,31 +4128,29 @@ http://192.168.1.7:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561dae
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Пятница!
 http://192.168.1.7:6878/ace/getstream?infohash=563e10aeb8ec270eafb44dd871b6b0600ed55bf2
 #EXTINF:-1 group-title="Федеральные",Пятница!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Пятница! (+2)
 http://192.168.1.7:6878/ace/getstream?infohash=29c4da641d56c1ead0cc9b368a715c8b55403f16
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Пятница! (+4)
 http://192.168.1.7:6878/ace/getstream?infohash=15970cb3d2a2f3b4dc3a2fd42aa445493077377a
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница! HD
-https://s25617.cdn.ngenix.net/mdrm/CH_PYATNIZZAHD_OTT/manifest.mpd?token=pFODZjYzhmN2UxYTc0MWVjNWFlYzMzNzAwZDNiMzBjNjU
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Пятый канал
 http://192.168.1.7:6878/ace/getstream?infohash=0bc4dbd6bde4a04e1d74d685ec3f522449dc42cf
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Пятый канал
 http://192.168.1.7:6878/ace/getstream?infohash=1a333ca96c3d31021795c72be8856c7439c390e7
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Развлекательные",Пятый канал
@@ -4397,10 +4281,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=7c213f44cbdf655a975af7099cfb167c6
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://92.53.64.197:5050/Rentv_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_RENTVHD/manifest.mpd?token=BrNTllOTk3MmM2ZTdiYWJjODkyMTE2YTZkMGViMTg2MmY=
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_RENTVHD_OTT/manifest.mpd?token=jhMGY5NTdhNTM4YTk4ODkyNzhmZWJmYTMyMjNjYzAwMDk
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
 http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="Региональные",Репортер 73
@@ -4498,10 +4378,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/samara/russia1sd/playlist_sdhigh.m3u8
 http://192.168.1.7:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_RUSSIA1HD/manifest.mpd?token=85NWNkNTkyMGQ3MWE5NjU2MTkzYjJhZTU0NDc5ZTNhMmQ=
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIA1HD_OTT/manifest.mpd?token=ddYWYxMDRkZTU3MzlkMGM5NzE0OTQ2ZTNiMjM4ZjA0OGQ=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Россия 24
 http://192.168.1.7:6878/ace/getstream?infohash=cb6c39a9987af5867be67dc65d628a2eafdef597
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Россия 24
@@ -4819,14 +4695,10 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 http://92.53.64.197:5050/start/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Кино",Старт HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 group-title="Спорт",Старт HD
-https://strm.yandex.ru/tv/ssilzdOHUzbS4wdHJhdHMvdHJhdHMvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Кино",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="Кино",Старт Триумф
 http://92.53.64.197:5050/start_triumf_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорт",Старт Триумф HD
-https://strm.yandex.ru/tv/llolzdOHUzbS4wdnR1L2ZtdWlydF90cmF0cy9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA
 #EXTINF:-1 group-title="IPTV",СТВ
 https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",СТВ (Беларусь)
@@ -4891,8 +4763,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=ca8e23fd8512b39f30a224a0415986b4b
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС HD
 http://92.53.64.197:5050/sts_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",СТС HD
-https://s25617.cdn.ngenix.net/mdrm/CH_STSHD_OTT/manifest.mpd?token=f8MTBiNDRkY2Q0ZDAzODI4YmMwN2RkMzFkYWM3NmJmYTg=
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",СТС Kids
 http://192.168.1.7:6878/ace/getstream?infohash=a07a6365dc2f3f7e1ca8dfdb63d05f45e187afb7
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",СТС Kids HD
@@ -4969,8 +4839,6 @@ https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Познавательные",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайны Галактики HD
-https://strm.yandex.ru/tv/7YulzdOHUzbS4wc3VyYWxlYl9pa2l0a2FsYWdfeW5pYXQvc3VyYWxlYl9pa2l0a2FsYWdfeW5pYXQvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Региональные",Такт (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Тамыр
@@ -5043,8 +4911,6 @@ http://192.168.1.7:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ-3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",ТВ-3 HD
-https://s25617.cdn.ngenix.net/mdrm/CH_TV3HD_OTT/manifest.mpd?token=VbNzgxNjc4ZDc4YThhNjNjMDViM2ZjMGE2MjI3Njc2ODA
 #EXTINF:-1 group-title="Развлекательные",ТВ-3 Беларусь
 https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ТВ-7
@@ -5196,10 +5062,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=a6169d01fb2b8a62b4585766694673277
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://92.53.64.197:5050/TNT_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_TNTHD/manifest.mpd?token=KNNDYyNTIyOTQwMzU1ODE2OTlmMTcwNmE5MTY0ZTUxZGQ
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_TNTHD_OTT/manifest.mpd?token=lfOWFkOTg0NzI3MTA5MjBkYTllZjUzNmE2NGU5ZDBkZjY=
 #EXTINF:-1 group-title="Развлекательные",ТНТ International
 https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ТНТ Music
@@ -5214,8 +5076,6 @@ https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ MUSIC HD
-https://strm.yandex.ru/tv/lkllzdOHUzbS4wY2lzdW10bnQvY2lzdW10bnQvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ТНТ4
 http://192.168.1.7:6878/ace/getstream?infohash=01ef7b690332bba539d20bd7de65a35215813fc5
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ТНТ4
@@ -5298,8 +5158,6 @@ http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт",Удар HD
 http://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 group-title="Спорт",УДАР HD
-https://strm.yandex.ru/tv/bhylzdOHUzbS4wcmFkdS9yYWR1L2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Региональные",Удмуртия
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Иностранные",Украина
@@ -5328,8 +5186,6 @@ http://192.168.1.7:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f
 http://192.168.1.7:6878/ace/getstream?infohash=ac1af534d9413abee090607cd87954d964d2fd91
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Фонтан Слонёнок
 http://192.168.1.7:6878/ace/getstream?infohash=ee62315c31cbfb9065c1052dae3abe819edd8cc3
-#EXTINF:-1 group-title="Спорт",Футбол
-https://strm.yandex.ru/tv/22dlzdOHUzbS4wc3VyYWxlYl9sb2J0dWYvc3VyYWxlYl9sb2J0dWYvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg
 #EXTINF:-1 group-title="Спорт",Футбол
 http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Спорт",Футбол
