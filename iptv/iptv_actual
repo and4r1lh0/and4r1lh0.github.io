@@ -2893,7 +2893,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://192.168.1.7:6878/ace/getstream?infohash=23446bc0b284950a536eab7592bc1918e2fa667f
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://91.142.158.107:8092/play/28/index.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ FHD
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:6d:a0:d8&stream=726963&extension=ts&play_token=oVGWY5BDo2
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",КИНО ТВ HD
 http://192.168.1.7:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
@@ -3988,7 +3988,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?|User-agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Федеральные",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал FHD
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал HD
 http://192.168.1.7:6878/ace/getstream?infohash=9fabb4c74794d16c70069731ac24e60ff7173a40
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Первый канал HD
 http://192.168.1.7:6878/ace/getstream?infohash=4f54e7c04ca1b388196f211469bcad6737db44aa
