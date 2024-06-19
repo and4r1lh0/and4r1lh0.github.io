@@ -2083,14 +2083,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=7cfbbab4b98966b11ab3bdae9eecb5be4
 http://192.168.1.7:6878/ace/getstream?infohash=3f9f8d66acf70915456fd0b8f9b6529134ea569e
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Sharqiya News
 http://192.168.1.7:6878/ace/getstream?infohash=787f4b2fd957b24648af14d48fdf7126de3c5bc5
-#EXTINF:-1 group-title="Развлекательные",Shop & Show
-https://s25617.cdn.ngenix.net/mdrm/CH_SHOPANDSHOW/manifest.mpd?token=85YjIyMjE4NGMyYzAwOGQxNGJiNmEyYzdkMDc5Mzc5Y2Y
-#EXTINF:-1 group-title="IPTV",Shop&Show
-http://146.158.0.56/Shop&Show/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Shopping live
-https://s25617.cdn.ngenix.net/mdrm/CH_SHOPPINGLIFE/manifest.mpd?token=hVMTUwZjYyNTZlYjIyMDIyMTcyMTJlYTQ5OTEyZWRhODY
-#EXTINF:-1 group-title="Познавательные",Shopping live
-https://beeline.tv/PTAzTWhKek14VW1NbVZqWWxkVE8wVUdPelVUTTRNVFlpUlROaWhEWjBRek54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино",SHOT TV ᴴᴰ
 https://s25617.cdn.ngenix.net/mdrm/CH_SHOTTVHD/manifest.mpd?token=CgZTUxMjM4NzMzMjIwNzhjOGRhZTRiMzA3NWIwZTM1OTQ
 #EXTINF:-1 group-title="Кино",SHOT TV ᴴᴰ
