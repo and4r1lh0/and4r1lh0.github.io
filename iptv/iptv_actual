@@ -3240,9 +3240,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://188.113.190.15/103/video.m3u8
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч! Футбол 1
-http://192.168.1.7:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012
-#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч! футбол 1 HD
+#EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч! Футбол 1 HD
 http://192.168.1.7:6878/ace/getstream?infohash=b7eb0df11b58033d019f57a3756a31bd14018888
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -5403,8 +5401,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=28fe0d0e3ac26d2ab115bbc7145fdedec
 http://192.168.1.7:6878/ace/getstream?infohash=c1c09a5546c3d2d3e70eaf55e78452d95c38cccd
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",ფორმულა [GE]
 http://192.168.1.7:6878/ace/getstream?infohash=6ed8d14b9f8a4e8a0dc26ea8ae16031ebf145827
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://192.168.1.7:6878/ace/getstream?infohash=e7aa45b8df0cd3a160c7f3e085f1343b00115964
 #EXTINF:-1 group-title="Спорт",Матч! HD
 http://158.101.214.187:8080/channel/n798e6fcf/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
