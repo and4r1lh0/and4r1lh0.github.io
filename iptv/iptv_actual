@@ -3198,8 +3198,6 @@ http://192.168.1.7:6878/ace/getstream?infohash=c731af531422ea946aca3facc2a978335
 http://192.168.1.7:6878/ace/getstream?infohash=9843ed4c25c9faccac5517ac474330ad4150a217
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матур ТВ HD
 http://192.168.1.7:6878/ace/getstream?infohash=aa5dde51504c69fcbc480c64117e89dcb203c3c3
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч!
 http://192.168.1.7:6878/ace/getstream?id=012878685ce80038e6dd81d6383f394ce7755dd2&.mp4
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч!
@@ -3207,7 +3205,7 @@ http://192.168.1.7:6878/ace/getstream?infohash=0a04b9a0fc12bd86ccdf8a9166255951d
 #EXTINF:-1 group-title="↕️ ТОРРЕНТ ТВ ↕️",Матч!
 http://192.168.1.7:6878/ace/getstream?infohash=7607b92456dfb05b057ba3749d4d8e2cf8ddc73c
 #EXTINF:-1 group-title="Спорт",Матч!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Спорт",Матч!
 http://91.142.158.107:8092/play/3/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
