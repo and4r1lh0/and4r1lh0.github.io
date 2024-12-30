@@ -104,7 +104,7 @@ CountdownTimer.prototype = {
 
 function CDT() {
   var tl = new Date('2025/01/01 00:00:00'); // Устанавливаем конечное время
-  var imageSrc = 'file:///C:/screensaver/happynewyear_screensaver.jpg'; // Укажите путь к вашему изображению
+  var imageSrc = './happynewyear_screensaver.jpg'; // Укажите путь к вашему изображению
   var timer = new CountdownTimer('CDT', tl, imageSrc);
   timer.countDown();
 }
